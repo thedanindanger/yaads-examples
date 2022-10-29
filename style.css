@@ -35,4 +35,6 @@
 p, li, ul, body {
     font-family: opendyslexic,oda,sans-serif;
     font-size: 12pt;
+	background-color:rgb(255, 250, 245);
+	color:#1a1a1a
   }

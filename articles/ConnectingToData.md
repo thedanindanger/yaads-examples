@@ -1,5 +1,16 @@
 # Connecting to Data Part One and Part Two
 
+- [Connecting to Data Part One and Part Two](#connecting-to-data-part-one-and-part-two)
+  - [Helpful Links](#helpful-links)
+  - [Project Challenge Summary](#project-challenge-summary)
+- [Definitions and Abbreviations](#definitions-and-abbreviations)
+- [Zero Padding Examples](#zero-padding-examples)
+  - [BigQuery SQL](#bigquery-sql)
+  - [Python Pandas](#python-pandas)
+- [Video Links](#video-links)
+  - [Video One:](#video-one)
+  - [Video Two:](#video-two)
+
 Part Two of a series showing free and online resource to become a data scientist. The objective is to give you a practical online portfolio. The portfolio demonstrates your ability to work as a data scientist, even if you do not have experience.
 
 The videos in this part focus on notebooks and connecting to data.

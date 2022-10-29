@@ -48,9 +48,9 @@ target_zips['Zip'] = target_zips['Zip'].astype(str).str.zfill(5)
 
 # Video Links
 ## Video One:
-[![Connect to Data Part Two](https://media-exp1.licdn.com/dms/image/D5605AQHDicxOR0BGEQ/feedshare-thumbnail_720_1280/0/1666968952216?e=1667678400&v=beta&t=HUTUUEMjaBI5eOzvEn91xBoqLmcWw0zrZwT3I6cTb9g)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6991774541593141248)
+[![Connect to Data Part Two](./images/connect_data_p1.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6991774541593141248)
 
 
 ## Video Two:
-[![Connect to Data Part Two](https://media-exp1.licdn.com/dms/image/D5605AQFLycujsrhiiA/feedshare-thumbnail_720_1280/0/1666994852950?e=1667678400&v=beta&t=W0beX4nHfqj0YSu-USZWdareUw30K1vVGDmGEqtrVQA)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6991883177040515072)
+[![Connect to Data Part Two](./images/connect_data_p2.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6991883177040515072)
 

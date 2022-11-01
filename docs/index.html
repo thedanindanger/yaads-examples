@@ -10,7 +10,30 @@
     <span class="mdc-button__label">Button</span>
   </button>
 
+  <ul class="mdc-list">
+    <li class="mdc-list-item" tabindex="0">
+      <span class="mdc-list-item__ripple"></span>
+      <span class="mdc-list-item__text">Item 1 - Division 1</span>
+    </li>
+    <li class="mdc-list-item">
+      <span class="mdc-list-item__ripple"></span>
+      <span class="mdc-list-item__text">Item 2 - Division 1</span>
+    </li>
+    <li role="separator" class="mdc-list-divider"></li>
+    <li class="mdc-list-item">
+      <span class="mdc-list-item__ripple"></span>
+      <span class="mdc-list-item__text">Item 1 - Division 2</span>
+    </li>
+    <li class="mdc-list-item">
+      <span class="mdc-list-item__ripple"></span>
+      <span class="mdc-list-item__text">Item 2 - Division 2</span>
+    </li>
+  </ul>
+
+
 
   <script>
     mdc.ripple.MDCRipple.attachTo(document.querySelector('.foo-button'));
+    const list = new MDCList(document.querySelector('.mdc-list'));
+    const listItemRipples = list.listElements.map((listItemEl) => new MDCRipple(listItemEl));
   </script>

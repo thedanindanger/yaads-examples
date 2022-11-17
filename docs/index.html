@@ -4,14 +4,12 @@
 <head>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css" rel="stylesheet">
-    <!-- <script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script> -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="./style.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 
 </head>
 
-
-<div class="mdc-body">
-    <div class="mdc-typography">
         <div id="main_content">
             <nav class="navbar  navbar-light bg-light">
                 <div class="container-fluid">
@@ -34,116 +32,122 @@
                         </ul>
                     </div>
             </nav>
-            <div class="container">
-                <div class="accordion">
-                <div class="container-fluid">
-                <div class="accordion-item">
-                    <div class="row accordion-header" id="headingOne">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"  aria-controls="collapseOne">
-    
-                        <span class="mdc-list-item__ripple"></span> 
-                        <div class="col-1">
-                        <span class="mdc-list-item__graphic material-icons" aria-hidden="true">
-                            done
-                        </span>
+            <div class="container wrapabout">
+                <div class="row">
+                    <div class="accordion col-lg-6 d-flex mb-5 mb-lg-0">
+                        <div class="container-fluid">
+                            <div class="accordion-item">
+                                <h2 class="row accordion-header" id="headingOne">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"  aria-controls="collapseOne">
+                                        <div class="col-1">
+                                            <span class="material-icons" aria-hidden="true">
+                                                done
+                                            </span>
+                                        </div>
+                                        <div class="col-10">
+                                            <span>
+                                                Intro to BigQuery Notebook
+                                            </span>
+                                        </div>
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <strong>Start Here</strong> 
+                                        A summary notebook showing the basic concepts of BigQuery.
+                                        <a href="https://thedanindanger.github.io/yaads-examples/intro-to-bigquery.html">
+                                            Intro to BigQuery Notebook
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div role="separator" class="mdc-list-divider"></div>
+                            <div class="accordion-item">
+                                <h2 class="row accordion-header"  id="headingTwo">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-controls="collapseTwo">
+                                        <div class="col-1">
+                                            <span class="material-icons" aria-hidden="true">
+                                                done
+                                            </span>
+                                        </div>
+                                        <div class="col-10">
+                                            <span>
+                                                Simple Sql and Regression Examples
+                                            </span>
+                                        </div>
+                                    </button>
+                                </h2>
+
+                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <strong>Lesson Two</strong> 
+                                        Learn how to download data online and create your own database!
+                                        <a href="https://thedanindanger.github.io/yaads-examples/simple-sql-and-regression-example.html">
+                                            Simple Sql and Regression Examples
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div role="separator" class="mdc-list-divider"></div>
+                            <div class="accordion-item">
+                                <h2 class="row accordion-header" id="headingThree">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-controls="collapseThree">
+                
+                                        <div class="col-1">
+                                            <span class="material-icons" aria-hidden="true">
+                                                done
+                                            </span>
+                                        </div>
+                                        <div class="col-10">
+                                            <span>
+                                                K Nearest Neighbors Write-up
+                                            </span>
+                                        </div>
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                    <strong>Lesson Three</strong> 
+                                    KNN Imputation and basics of Geo data videos.
+                                        <a href="https://www.linkedin.com/pulse/k-nearest-neighbors-imputation-understanding-geo-data-daniel-smith">
+                                            KNN Videos and Technical Documentation
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-10">
-                            <span class="mdc-list-item__text">
-                            <a href="https://thedanindanger.github.io/yaads-examples/intro-to-bigquery.html">
-                                Intro to BigQuery Notebook
-                            </a>
-                            </span>
+                    </div>
+
+                    <div class="col-lg-6 align-items-center justify-content-left mt-5 mt-lg-0">
+                        <div class="blockabout">
+                            <div class="blockabout-inner text-center text-sm-start">
+                                <div class="title-big pb-3 mb-3">
+                                    <h3>ABOUT ME</h3>
+                                </div>
+                                <p class="description-p text-muted pe-0 pe-lg-0">
+                                    I help people do more with technology. 
+                                </p>
+                                <p class="description-p text-muted pe-0 pe-lg-0">
+                                    For Business Leaders I help through coaching executives on how to understand their technical resources - or helping more closely as a fractional CTO.
+                                </p>
+                                <p class="description-p text-muted pe-0 pe-lg-0">
+                                For Analytics and Data Driven Businesses, as a Certified Professional Google Cloud Architect and Certified Professional Google Cloud Data Engineer I help guide teams toward data science and data solutions in the cloud.
+                                </p>
+                                <p class="description-p text-muted pe-0 pe-lg-0">
+                                For Individuals, I know You are a Data Scientist #YAADS so all I need to do is point you in the right direction. Technology is easy to learn once you know what you need to do. </p>
+                                </p>
+                                <div class="sosmed-horizontal pt-3 pb-3">
+                                    <a href="#"><i class="fa fa-facebook"></i></a>
+                                    <a href="#"><i class="fa fa-instagram"></i></a>
+                                    <a href="#"><i class="fa fa-pinterest"></i></a>
+                                </div>
+                                <a href="https://www.theorylane.com" class="btn rey-btn mt-3">See More</a>
+                            </div>
                         </div>
-                    </button>
-                </div>
-                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                    <strong>Start Here</strong> 
-                    A summary notebook showing the basic concepts of BigQuery
                     </div>
+
                 </div>
-                </div>
-                <div role="separator" class="mdc-list-divider"></div>
-                <!-- <li class="mdc-list-item"></li> -->
-
-                <div class="accordion-item" id="headingTwo">
-                    <div class="row accordion-header">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-controls="collapseTwo">
-    
-
-
-                    <span class="mdc-list-item__ripple"></span> 
-                    <div class="col-1">
-                    <span class="mdc-list-item__graphic material-icons" aria-hidden="true">
-                        done
-                    </span>
-                    </div>
-                    <div class="col-10">
-                        <span class="mdc-list-item__text">
-                            <a href="https://thedanindanger.github.io/yaads-examples/simple-sql-and-regression-example.html">
-                                Simple Sql and Regression Examples
-                            </a>
-                        </span>
-                    </div>
-                </div>
-            </button>
-            </div>
-            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                <strong>Lesson Two</strong> 
-                Learn how to download data online and create your own database!
-                </div>
-            </div>
-
-
-                <div role="separator" class="mdc-list-divider"></div>
-
-                <div class="accordion-item">
-                    <div class="row accordion-header" id="headingThree">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-controls="collapseThree">
-    
-
-                        <span class="mdc-list-item__ripple"></span> 
-                        <div class="col-1">
-                            <span class="mdc-list-item__graphic material-icons" aria-hidden="true">
-                                schedule
-                            </span>
-                        </div>
-                        <div class="col-10">
-                            <span class="mdc-list-item__text">
-                                <a href="https://thedanindanger.github.io/yaads-examples/intro-to-bigquery.html">
-                                    Coming Soon
-                                </a>
-                            </span>
-                        </div>
-                    </button>
-                </div>
-                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                    <strong>Lesson Three</strong> 
-                    Coming Soon!
-                    </div>
-                </div>
-                </div>
-
             </div>
         </div>
-
-
-        </div>
-            </div>
-         </div>
-        </div>   
-    </div>
-
-        </div>
-    </div>
-</div>
-
-  <script>
-    mdc.ripple.MDCRipple.attachTo(document.querySelector('.foo-button'));
-    const list = new MDCList(document.querySelector('.mdc-list'));
-    const listItemRipples = list.listElements.map((listItemEl) => new MDCRipple(listItemEl));
-  </script>
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </html>

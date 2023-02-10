@@ -78,3 +78,4 @@ cloud-bigtable-client/
 googleapis-pb/
 grpc_python_venv/
 pytype_output/
+local_data

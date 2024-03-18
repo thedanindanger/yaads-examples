@@ -1,0 +1,2341 @@
+,ISO Week Start Date,Country,Account,Product,Value in USD
+0,2013-12-30,United States,Revenue,Product A,88158.0
+1,2013-12-30,United States,Labor,Product A,17270.0
+2,2013-12-30,United States,Raw Materials,Product A,19318.518953230487
+3,2013-12-30,United States,Admin,Product A,8772.0
+4,2013-12-30,United States,Utilities,Product A,6092.0
+5,2013-12-30,United States,Revenue,Product B,50410.093013359365
+6,2013-12-30,United States,Labor,Product B,15734.0
+7,2013-12-30,United States,Raw Materials,Product B,15393.093013359361
+8,2013-12-30,United States,Admin,Product B,8444.0
+9,2013-12-30,United States,Utilities,Product B,6171.0
+10,2013-12-30,United States,Revenue,Overhead,48921.45964179508
+11,2013-12-30,United States,Labor,Overhead,18322.0
+12,2013-12-30,United States,Raw Materials,Overhead,14808.459641795078
+13,2013-12-30,United States,Admin,Overhead,7433.0
+14,2013-12-30,United States,Utilities,Overhead,4215.0
+15,2013-12-30,Canada,Revenue,Product A,69769.0
+16,2013-12-30,Canada,Labor,Product A,15051.0
+17,2013-12-30,Canada,Raw Materials,Product A,13144.968511121613
+18,2013-12-30,Canada,Admin,Product A,9843.0
+19,2013-12-30,Canada,Utilities,Product A,5904.0
+20,2013-12-30,Canada,Revenue,Product B,53503.138453155174
+21,2013-12-30,Canada,Labor,Product B,18666.0
+22,2013-12-30,Canada,Raw Materials,Product B,19501.138453155174
+23,2013-12-30,Canada,Admin,Product B,7747.0
+24,2013-12-30,Canada,Utilities,Product B,3975.0
+25,2013-12-30,Canada,Revenue,Overhead,56105.595017748914
+26,2013-12-30,Canada,Labor,Overhead,19998.0
+27,2013-12-30,Canada,Raw Materials,Overhead,19646.595017748914
+28,2013-12-30,Canada,Admin,Overhead,9658.0
+29,2013-12-30,Canada,Utilities,Overhead,4899.0
+30,2013-12-30,Mexico,Revenue,Product A,61394.0
+31,2013-12-30,Mexico,Labor,Product A,17734.0
+32,2013-12-30,Mexico,Raw Materials,Product A,21161.84661155903
+33,2013-12-30,Mexico,Admin,Product A,5646.0
+34,2013-12-30,Mexico,Utilities,Product A,5068.0
+35,2013-12-30,Mexico,Revenue,Product B,45389.87802997622
+36,2013-12-30,Mexico,Labor,Product B,15393.0
+37,2013-12-30,Mexico,Raw Materials,Product B,18156.878029976222
+38,2013-12-30,Mexico,Admin,Product B,5241.0
+39,2013-12-30,Mexico,Utilities,Product B,5041.0
+40,2013-12-30,Mexico,Revenue,Overhead,48520.61269303752
+41,2013-12-30,Mexico,Labor,Overhead,17513.0
+42,2013-12-30,Mexico,Raw Materials,Overhead,14694.612693037521
+43,2013-12-30,Mexico,Admin,Overhead,7556.0
+44,2013-12-30,Mexico,Utilities,Overhead,3775.0
+45,2014-01-06,United States,Revenue,Product A,76531.0
+46,2014-01-06,United States,Labor,Product A,18226.0
+47,2014-01-06,United States,Raw Materials,Product A,21210.109459315154
+48,2014-01-06,United States,Admin,Product A,8073.0
+49,2014-01-06,United States,Utilities,Product A,4021.0
+50,2014-01-06,United States,Revenue,Product B,37269.97609113595
+51,2014-01-06,United States,Labor,Product B,13843.0
+52,2014-01-06,United States,Raw Materials,Product B,12097.97609113595
+53,2014-01-06,United States,Admin,Product B,5161.0
+54,2014-01-06,United States,Utilities,Product B,3201.0
+55,2014-01-06,United States,Revenue,Overhead,38778.56410681115
+56,2014-01-06,United States,Labor,Overhead,10995.0
+57,2014-01-06,United States,Raw Materials,Overhead,11425.564106811153
+58,2014-01-06,United States,Admin,Overhead,8798.0
+59,2014-01-06,United States,Utilities,Overhead,4275.0
+60,2014-01-06,Canada,Revenue,Product A,74276.0
+61,2014-01-06,Canada,Labor,Product A,11016.0
+62,2014-01-06,Canada,Raw Materials,Product A,13048.10840809297
+63,2014-01-06,Canada,Admin,Product A,5337.0
+64,2014-01-06,Canada,Utilities,Product A,3878.0
+65,2014-01-06,Canada,Revenue,Product B,50202.60858400441
+66,2014-01-06,Canada,Labor,Product B,19268.0
+67,2014-01-06,Canada,Raw Materials,Product B,19936.60858400441
+68,2014-01-06,Canada,Admin,Product B,5379.0
+69,2014-01-06,Canada,Utilities,Product B,3492.0
+70,2014-01-06,Canada,Revenue,Overhead,47181.70979446234
+71,2014-01-06,Canada,Labor,Overhead,17208.0
+72,2014-01-06,Canada,Raw Materials,Overhead,15805.709794462342
+73,2014-01-06,Canada,Admin,Overhead,7568.0
+74,2014-01-06,Canada,Utilities,Overhead,4367.0
+75,2014-01-06,Mexico,Revenue,Product A,98190.0
+76,2014-01-06,Mexico,Labor,Product A,12027.0
+77,2014-01-06,Mexico,Raw Materials,Product A,11033.51291093354
+78,2014-01-06,Mexico,Admin,Product A,5391.0
+79,2014-01-06,Mexico,Utilities,Product A,4698.0
+80,2014-01-06,Mexico,Revenue,Product B,48157.90942453366
+81,2014-01-06,Mexico,Labor,Product B,15892.0
+82,2014-01-06,Mexico,Raw Materials,Product B,18601.909424533656
+83,2014-01-06,Mexico,Admin,Product B,5200.0
+84,2014-01-06,Mexico,Utilities,Product B,4863.0
+85,2014-01-06,Mexico,Revenue,Overhead,38745.34744885922
+86,2014-01-06,Mexico,Labor,Overhead,13104.0
+87,2014-01-06,Mexico,Raw Materials,Overhead,10816.347448859222
+88,2014-01-06,Mexico,Admin,Overhead,5804.0
+89,2014-01-06,Mexico,Utilities,Overhead,5146.0
+90,2014-01-13,United States,Revenue,Product A,74538.0
+91,2014-01-13,United States,Labor,Product A,12731.0
+92,2014-01-13,United States,Raw Materials,Product A,13431.497667129286
+93,2014-01-13,United States,Admin,Product A,7690.0
+94,2014-01-13,United States,Utilities,Product A,6840.0
+95,2014-01-13,United States,Revenue,Product B,35505.30597391856
+96,2014-01-13,United States,Labor,Product B,11028.0
+97,2014-01-13,United States,Raw Materials,Product B,11298.305973918563
+98,2014-01-13,United States,Admin,Product B,5870.0
+99,2014-01-13,United States,Utilities,Product B,5842.0
+100,2014-01-13,United States,Revenue,Overhead,47967.83357830708
+101,2014-01-13,United States,Labor,Overhead,14488.0
+102,2014-01-13,United States,Raw Materials,Overhead,15708.833578307076
+103,2014-01-13,United States,Admin,Overhead,6484.0
+104,2014-01-13,United States,Utilities,Overhead,6762.0
+105,2014-01-13,Canada,Revenue,Product A,91523.0
+106,2014-01-13,Canada,Labor,Product A,10863.0
+107,2014-01-13,Canada,Raw Materials,Product A,11455.730519023378
+108,2014-01-13,Canada,Admin,Product A,6757.0
+109,2014-01-13,Canada,Utilities,Product A,5532.0
+110,2014-01-13,Canada,Revenue,Product B,53916.01240937134
+111,2014-01-13,Canada,Labor,Product B,17574.0
+112,2014-01-13,Canada,Raw Materials,Product B,18308.012409371342
+113,2014-01-13,Canada,Admin,Product B,9636.0
+114,2014-01-13,Canada,Utilities,Product B,4059.0
+115,2014-01-13,Canada,Revenue,Overhead,46924.64045481053
+116,2014-01-13,Canada,Labor,Overhead,16668.0
+117,2014-01-13,Canada,Raw Materials,Overhead,13847.64045481053
+118,2014-01-13,Canada,Admin,Overhead,8157.0
+119,2014-01-13,Canada,Utilities,Overhead,4819.0
+120,2014-01-13,Mexico,Revenue,Product A,57445.97077503391
+121,2014-01-13,Mexico,Labor,Product A,19789.0
+122,2014-01-13,Mexico,Raw Materials,Product A,20844.970775033908
+123,2014-01-13,Mexico,Admin,Product A,8627.0
+124,2014-01-13,Mexico,Utilities,Product A,4363.0
+125,2014-01-13,Mexico,Revenue,Product B,45200.452229812596
+126,2014-01-13,Mexico,Labor,Product B,15450.0
+127,2014-01-13,Mexico,Raw Materials,Product B,14364.452229812594
+128,2014-01-13,Mexico,Admin,Product B,8302.0
+129,2014-01-13,Mexico,Utilities,Product B,5237.0
+130,2014-01-13,Mexico,Revenue,Overhead,48279.76963251903
+131,2014-01-13,Mexico,Labor,Overhead,17392.0
+132,2014-01-13,Mexico,Raw Materials,Overhead,15806.769632519032
+133,2014-01-13,Mexico,Admin,Overhead,7675.0
+134,2014-01-13,Mexico,Utilities,Overhead,3972.0
+135,2014-01-20,United States,Revenue,Product A,71959.0
+136,2014-01-20,United States,Labor,Product A,15864.0
+137,2014-01-20,United States,Raw Materials,Product A,14625.219951767589
+138,2014-01-20,United States,Admin,Product A,9413.0
+139,2014-01-20,United States,Utilities,Product A,6748.0
+140,2014-01-20,United States,Revenue,Product B,48319.0
+141,2014-01-20,United States,Labor,Product B,10663.0
+142,2014-01-20,United States,Raw Materials,Product B,12552.098469127675
+143,2014-01-20,United States,Admin,Product B,6495.0
+144,2014-01-20,United States,Utilities,Product B,6304.0
+145,2014-01-20,United States,Revenue,Overhead,44649.25368701849
+146,2014-01-20,United States,Labor,Overhead,13763.0
+147,2014-01-20,United States,Raw Materials,Overhead,13012.25368701849
+148,2014-01-20,United States,Admin,Overhead,9659.0
+149,2014-01-20,United States,Utilities,Overhead,4291.0
+150,2014-01-20,Canada,Revenue,Product A,73938.0
+151,2014-01-20,Canada,Labor,Product A,13581.0
+152,2014-01-20,Canada,Raw Materials,Product A,14647.403331774867
+153,2014-01-20,Canada,Admin,Product A,8696.0
+154,2014-01-20,Canada,Utilities,Product A,5999.0
+155,2014-01-20,Canada,Revenue,Product B,34555.0
+156,2014-01-20,Canada,Labor,Product B,10698.0
+157,2014-01-20,Canada,Raw Materials,Product B,11166.847697966774
+158,2014-01-20,Canada,Admin,Product B,5854.0
+159,2014-01-20,Canada,Utilities,Product B,4759.0
+160,2014-01-20,Canada,Revenue,Overhead,49460.65543481844
+161,2014-01-20,Canada,Labor,Overhead,17392.0
+162,2014-01-20,Canada,Raw Materials,Overhead,18326.655434818447
+163,2014-01-20,Canada,Admin,Overhead,6707.0
+164,2014-01-20,Canada,Utilities,Overhead,5777.0
+165,2014-01-20,Mexico,Revenue,Product A,54931.0
+166,2014-01-20,Mexico,Labor,Product A,15791.0
+167,2014-01-20,Mexico,Raw Materials,Product A,16125.093907810136
+168,2014-01-20,Mexico,Admin,Product A,8255.0
+169,2014-01-20,Mexico,Utilities,Product A,3122.0
+170,2014-01-20,Mexico,Revenue,Product B,52722.76940058003
+171,2014-01-20,Mexico,Labor,Product B,18958.0
+172,2014-01-20,Mexico,Raw Materials,Product B,21256.769400580026
+173,2014-01-20,Mexico,Admin,Product B,5197.0
+174,2014-01-20,Mexico,Utilities,Product B,6029.0
+175,2014-01-20,Mexico,Revenue,Overhead,40438.0128990029
+176,2014-01-20,Mexico,Labor,Overhead,11930.0
+177,2014-01-20,Mexico,Raw Materials,Overhead,13440.012899002899
+178,2014-01-20,Mexico,Admin,Overhead,8272.0
+179,2014-01-20,Mexico,Utilities,Overhead,4147.0
+180,2014-01-27,United States,Revenue,Product A,65708.0
+181,2014-01-27,United States,Labor,Product A,14282.0
+182,2014-01-27,United States,Raw Materials,Product A,12491.142946212289
+183,2014-01-27,United States,Admin,Product A,7811.0
+184,2014-01-27,United States,Utilities,Product A,6002.0
+185,2014-01-27,United States,Revenue,Product B,50032.472065487775
+186,2014-01-27,United States,Labor,Product B,16546.0
+187,2014-01-27,United States,Raw Materials,Product B,17943.472065487775
+188,2014-01-27,United States,Admin,Product B,7911.0
+189,2014-01-27,United States,Utilities,Product B,4734.0
+190,2014-01-27,United States,Revenue,Overhead,40115.846808540155
+191,2014-01-27,United States,Labor,Overhead,11843.0
+192,2014-01-27,United States,Raw Materials,Overhead,13929.846808540153
+193,2014-01-27,United States,Admin,Overhead,7385.0
+194,2014-01-27,United States,Utilities,Overhead,5919.0
+195,2014-01-27,Canada,Revenue,Product A,58120.0
+196,2014-01-27,Canada,Labor,Product A,14736.0
+197,2014-01-27,Canada,Raw Materials,Product A,15771.587825876335
+198,2014-01-27,Canada,Admin,Product A,9061.0
+199,2014-01-27,Canada,Utilities,Product A,6369.0
+200,2014-01-27,Canada,Revenue,Product B,37236.70251216109
+201,2014-01-27,Canada,Labor,Product B,10262.0
+202,2014-01-27,Canada,Raw Materials,Product B,10918.702512161097
+203,2014-01-27,Canada,Admin,Product B,8643.0
+204,2014-01-27,Canada,Utilities,Product B,3880.0
+205,2014-01-27,Canada,Revenue,Overhead,46121.74433135329
+206,2014-01-27,Canada,Labor,Overhead,12049.0
+207,2014-01-27,Canada,Raw Materials,Overhead,14440.744331353291
+208,2014-01-27,Canada,Admin,Overhead,9548.0
+209,2014-01-27,Canada,Utilities,Overhead,6108.0
+210,2014-01-27,Mexico,Revenue,Product A,92642.0
+211,2014-01-27,Mexico,Labor,Product A,17158.0
+212,2014-01-27,Mexico,Raw Materials,Product A,16053.229261925442
+213,2014-01-27,Mexico,Admin,Product A,6154.0
+214,2014-01-27,Mexico,Utilities,Product A,3403.0
+215,2014-01-27,Mexico,Revenue,Product B,48543.58397258243
+216,2014-01-27,Mexico,Labor,Product B,16295.0
+217,2014-01-27,Mexico,Raw Materials,Product B,15672.583972582435
+218,2014-01-27,Mexico,Admin,Product B,9723.0
+219,2014-01-27,Mexico,Utilities,Product B,3586.0
+220,2014-01-27,Mexico,Revenue,Overhead,38095.46050470963
+221,2014-01-27,Mexico,Labor,Overhead,11648.0
+222,2014-01-27,Mexico,Raw Materials,Overhead,10071.460504709625
+223,2014-01-27,Mexico,Admin,Overhead,8923.0
+224,2014-01-27,Mexico,Utilities,Overhead,3253.0
+225,2014-02-03,United States,Revenue,Product A,52200.0
+226,2014-02-03,United States,Labor,Product A,12557.0
+227,2014-02-03,United States,Raw Materials,Product A,14767.70225477693
+228,2014-02-03,United States,Admin,Product A,9973.0
+229,2014-02-03,United States,Utilities,Product A,3337.0
+230,2014-02-03,United States,Revenue,Product B,39713.50811843601
+231,2014-02-03,United States,Labor,Product B,12869.0
+232,2014-02-03,United States,Raw Materials,Product B,12603.508118436008
+233,2014-02-03,United States,Admin,Product B,9067.0
+234,2014-02-03,United States,Utilities,Product B,3160.0
+235,2014-02-03,United States,Revenue,Overhead,47333.02936984491
+236,2014-02-03,United States,Labor,Overhead,15699.0
+237,2014-02-03,United States,Raw Materials,Overhead,14049.029369844906
+238,2014-02-03,United States,Admin,Overhead,8987.0
+239,2014-02-03,United States,Utilities,Overhead,4527.0
+240,2014-02-03,Canada,Revenue,Product A,83986.0
+241,2014-02-03,Canada,Labor,Product A,16015.0
+242,2014-02-03,Canada,Raw Materials,Product A,17579.156370700337
+243,2014-02-03,Canada,Admin,Product A,8104.0
+244,2014-02-03,Canada,Utilities,Product A,5735.0
+245,2014-02-03,Canada,Revenue,Product B,45594.315555355264
+246,2014-02-03,Canada,Labor,Product B,14555.0
+247,2014-02-03,Canada,Raw Materials,Product B,14606.31555535526
+248,2014-02-03,Canada,Admin,Product B,6045.0
+249,2014-02-03,Canada,Utilities,Product B,5797.0
+250,2014-02-03,Canada,Revenue,Overhead,39494.36496668814
+251,2014-02-03,Canada,Labor,Overhead,11693.0
+252,2014-02-03,Canada,Raw Materials,Overhead,13905.364966688137
+253,2014-02-03,Canada,Admin,Overhead,7485.0
+254,2014-02-03,Canada,Utilities,Overhead,4799.0
+255,2014-02-03,Mexico,Revenue,Product A,98404.0
+256,2014-02-03,Mexico,Labor,Product A,13354.0
+257,2014-02-03,Mexico,Raw Materials,Product A,13003.560942810505
+258,2014-02-03,Mexico,Admin,Product A,5959.0
+259,2014-02-03,Mexico,Utilities,Product A,4504.0
+260,2014-02-03,Mexico,Revenue,Product B,54664.193625762404
+261,2014-02-03,Mexico,Labor,Product B,17996.0
+262,2014-02-03,Mexico,Raw Materials,Product B,17990.1936257624
+263,2014-02-03,Mexico,Admin,Product B,8120.0
+264,2014-02-03,Mexico,Utilities,Product B,6583.0
+265,2014-02-03,Mexico,Revenue,Overhead,55445.91028023919
+266,2014-02-03,Mexico,Labor,Overhead,18208.0
+267,2014-02-03,Mexico,Raw Materials,Overhead,21809.910280239194
+268,2014-02-03,Mexico,Admin,Overhead,6069.0
+269,2014-02-03,Mexico,Utilities,Overhead,6444.0
+270,2014-02-10,United States,Revenue,Product A,81216.0
+271,2014-02-10,United States,Labor,Product A,11060.0
+272,2014-02-10,United States,Raw Materials,Product A,12954.881320888097
+273,2014-02-10,United States,Admin,Product A,5606.0
+274,2014-02-10,United States,Utilities,Product A,6170.0
+275,2014-02-10,United States,Revenue,Product B,36550.73926561812
+276,2014-02-10,United States,Labor,Product B,10699.0
+277,2014-02-10,United States,Raw Materials,Product B,12209.739265618115
+278,2014-02-10,United States,Admin,Product B,5980.0
+279,2014-02-10,United States,Utilities,Product B,5975.0
+280,2014-02-10,United States,Revenue,Overhead,47283.79285825812
+281,2014-02-10,United States,Labor,Overhead,16102.0
+282,2014-02-10,United States,Raw Materials,Overhead,14610.792858258123
+283,2014-02-10,United States,Admin,Overhead,7065.0
+284,2014-02-10,United States,Utilities,Overhead,4816.0
+285,2014-02-10,Canada,Revenue,Product A,88210.0
+286,2014-02-10,Canada,Labor,Product A,15854.0
+287,2014-02-10,Canada,Raw Materials,Product A,18036.86205322998
+288,2014-02-10,Canada,Admin,Product A,8863.0
+289,2014-02-10,Canada,Utilities,Product A,3625.0
+290,2014-02-10,Canada,Revenue,Product B,48407.92403446552
+291,2014-02-10,Canada,Labor,Product B,17455.0
+292,2014-02-10,Canada,Raw Materials,Product B,18649.92403446552
+293,2014-02-10,Canada,Admin,Product B,5154.0
+294,2014-02-10,Canada,Utilities,Product B,5537.0
+295,2014-02-10,Canada,Revenue,Overhead,40903.19266767928
+296,2014-02-10,Canada,Labor,Overhead,11409.0
+297,2014-02-10,Canada,Raw Materials,Overhead,10599.192667679277
+298,2014-02-10,Canada,Admin,Overhead,9341.0
+299,2014-02-10,Canada,Utilities,Overhead,6247.0
+300,2014-02-10,Mexico,Revenue,Product A,69190.0
+301,2014-02-10,Mexico,Labor,Product A,17206.0
+302,2014-02-10,Mexico,Raw Materials,Product A,15785.41650896595
+303,2014-02-10,Mexico,Admin,Product A,6841.0
+304,2014-02-10,Mexico,Utilities,Product A,3920.0
+305,2014-02-10,Mexico,Revenue,Product B,51151.64667214836
+306,2014-02-10,Mexico,Labor,Product B,18716.0
+307,2014-02-10,Mexico,Raw Materials,Product B,15583.646672148361
+308,2014-02-10,Mexico,Admin,Product B,9131.0
+309,2014-02-10,Mexico,Utilities,Product B,3684.0
+310,2014-02-10,Mexico,Revenue,Overhead,38298.35890458204
+311,2014-02-10,Mexico,Labor,Overhead,12368.0
+312,2014-02-10,Mexico,Raw Materials,Overhead,10245.358904582043
+313,2014-02-10,Mexico,Admin,Overhead,7701.0
+314,2014-02-10,Mexico,Utilities,Overhead,3971.0
+315,2014-02-17,United States,Revenue,Product A,63403.0
+316,2014-02-17,United States,Labor,Product A,16002.0
+317,2014-02-17,United States,Raw Materials,Product A,14965.03939997531
+318,2014-02-17,United States,Admin,Product A,7774.0
+319,2014-02-17,United States,Utilities,Product A,4982.0
+320,2014-02-17,United States,Revenue,Product B,36958.0
+321,2014-02-17,United States,Labor,Product B,10853.0
+322,2014-02-17,United States,Raw Materials,Product B,10106.976360041306
+323,2014-02-17,United States,Admin,Product B,8261.0
+324,2014-02-17,United States,Utilities,Product B,4148.0
+325,2014-02-17,United States,Revenue,Overhead,50204.97852578036
+326,2014-02-17,United States,Labor,Overhead,16293.0
+327,2014-02-17,United States,Raw Materials,Overhead,16884.97852578036
+328,2014-02-17,United States,Admin,Overhead,9777.0
+329,2014-02-17,United States,Utilities,Overhead,3837.0
+330,2014-02-17,Canada,Revenue,Product A,52491.0
+331,2014-02-17,Canada,Labor,Product A,13854.0
+332,2014-02-17,Canada,Raw Materials,Product A,13079.232458444654
+333,2014-02-17,Canada,Admin,Product A,8124.0
+334,2014-02-17,Canada,Utilities,Product A,4595.0
+335,2014-02-17,Canada,Revenue,Product B,45056.800655371975
+336,2014-02-17,Canada,Labor,Product B,13051.0
+337,2014-02-17,Canada,Raw Materials,Product B,15479.800655371972
+338,2014-02-17,Canada,Admin,Product B,9869.0
+339,2014-02-17,Canada,Utilities,Product B,3876.0
+340,2014-02-17,Canada,Revenue,Overhead,54149.59035894871
+341,2014-02-17,Canada,Labor,Overhead,19183.0
+342,2014-02-17,Canada,Raw Materials,Overhead,19423.590358948713
+343,2014-02-17,Canada,Admin,Overhead,9364.0
+344,2014-02-17,Canada,Utilities,Overhead,3369.0
+345,2014-02-17,Mexico,Revenue,Product A,76258.0
+346,2014-02-17,Mexico,Labor,Product A,10635.0
+347,2014-02-17,Mexico,Raw Materials,Product A,11547.887573181517
+348,2014-02-17,Mexico,Admin,Product A,5830.0
+349,2014-02-17,Mexico,Utilities,Product A,4810.0
+350,2014-02-17,Mexico,Revenue,Product B,43373.89299985263
+351,2014-02-17,Mexico,Labor,Product B,15177.0
+352,2014-02-17,Mexico,Raw Materials,Product B,12617.89299985263
+353,2014-02-17,Mexico,Admin,Product B,7838.0
+354,2014-02-17,Mexico,Utilities,Product B,4150.0
+355,2014-02-17,Mexico,Revenue,Overhead,52474.02330297593
+356,2014-02-17,Mexico,Labor,Overhead,17560.0
+357,2014-02-17,Mexico,Raw Materials,Overhead,18884.023302975933
+358,2014-02-17,Mexico,Admin,Overhead,5512.0
+359,2014-02-17,Mexico,Utilities,Overhead,6822.0
+360,2014-02-24,United States,Revenue,Product A,70056.0
+361,2014-02-24,United States,Labor,Product A,17805.0
+362,2014-02-24,United States,Raw Materials,Product A,14912.56557195896
+363,2014-02-24,United States,Admin,Product A,9992.0
+364,2014-02-24,United States,Utilities,Product A,6343.0
+365,2014-02-24,United States,Revenue,Product B,45012.22255679894
+366,2014-02-24,United States,Labor,Product B,14070.0
+367,2014-02-24,United States,Raw Materials,Product B,14954.222556798939
+368,2014-02-24,United States,Admin,Product B,7294.0
+369,2014-02-24,United States,Utilities,Product B,6147.0
+370,2014-02-24,United States,Revenue,Overhead,44707.10187924073
+371,2014-02-24,United States,Labor,Overhead,14249.0
+372,2014-02-24,United States,Raw Materials,Overhead,13428.10187924073
+373,2014-02-24,United States,Admin,Overhead,7744.0
+374,2014-02-24,United States,Utilities,Overhead,6356.0
+375,2014-02-24,Canada,Revenue,Product A,63296.0
+376,2014-02-24,Canada,Labor,Product A,19435.0
+377,2014-02-24,Canada,Raw Materials,Product A,15905.624539077106
+378,2014-02-24,Canada,Admin,Product A,8059.0
+379,2014-02-24,Canada,Utilities,Product A,3452.0
+380,2014-02-24,Canada,Revenue,Product B,46211.0
+381,2014-02-24,Canada,Labor,Product B,16617.0
+382,2014-02-24,Canada,Raw Materials,Product B,16561.27239872656
+383,2014-02-24,Canada,Admin,Product B,6757.0
+384,2014-02-24,Canada,Utilities,Product B,3356.0
+385,2014-02-24,Canada,Revenue,Overhead,50903.926162866905
+386,2014-02-24,Canada,Labor,Overhead,15881.0
+387,2014-02-24,Canada,Raw Materials,Overhead,16616.9261628669
+388,2014-02-24,Canada,Admin,Overhead,8251.0
+389,2014-02-24,Canada,Utilities,Overhead,6294.0
+390,2014-02-24,Mexico,Revenue,Product A,59823.0
+391,2014-02-24,Mexico,Labor,Product A,16905.0
+392,2014-02-24,Mexico,Raw Materials,Product A,19835.89631523346
+393,2014-02-24,Mexico,Admin,Product A,6348.0
+394,2014-02-24,Mexico,Utilities,Product A,3515.0
+395,2014-02-24,Mexico,Revenue,Product B,44017.64972438222
+396,2014-02-24,Mexico,Labor,Product B,12839.0
+397,2014-02-24,Mexico,Raw Materials,Product B,15118.649724382225
+398,2014-02-24,Mexico,Admin,Product B,5895.0
+399,2014-02-24,Mexico,Utilities,Product B,5207.0
+400,2014-02-24,Mexico,Revenue,Overhead,38111.588121652465
+401,2014-02-24,Mexico,Labor,Overhead,10851.0
+402,2014-02-24,Mexico,Raw Materials,Overhead,11178.588121652465
+403,2014-02-24,Mexico,Admin,Overhead,7427.0
+404,2014-02-24,Mexico,Utilities,Overhead,4568.0
+405,2014-03-03,United States,Revenue,Product A,78074.0
+406,2014-03-03,United States,Labor,Product A,14000.0
+407,2014-03-03,United States,Raw Materials,Product A,15742.743389721616
+408,2014-03-03,United States,Admin,Product A,8913.0
+409,2014-03-03,United States,Utilities,Product A,4066.0
+410,2014-03-03,United States,Revenue,Product B,51337.56522380498
+411,2014-03-03,United States,Labor,Product B,17723.0
+412,2014-03-03,United States,Raw Materials,Product B,16120.565223804982
+413,2014-03-03,United States,Admin,Product B,8373.0
+414,2014-03-03,United States,Utilities,Product B,6969.0
+415,2014-03-03,United States,Revenue,Overhead,52277.825328949155
+416,2014-03-03,United States,Labor,Overhead,18945.0
+417,2014-03-03,United States,Raw Materials,Overhead,20331.82532894915
+418,2014-03-03,United States,Admin,Overhead,5775.0
+419,2014-03-03,United States,Utilities,Overhead,5652.0
+420,2014-03-03,Canada,Revenue,Product A,91576.0
+421,2014-03-03,Canada,Labor,Product A,19817.0
+422,2014-03-03,Canada,Raw Materials,Product A,18553.662837229138
+423,2014-03-03,Canada,Admin,Product A,5825.0
+424,2014-03-03,Canada,Utilities,Product A,6572.0
+425,2014-03-03,Canada,Revenue,Product B,48558.08204901971
+426,2014-03-03,Canada,Labor,Product B,15745.0
+427,2014-03-03,Canada,Raw Materials,Product B,16557.082049019707
+428,2014-03-03,Canada,Admin,Product B,5728.0
+429,2014-03-03,Canada,Utilities,Product B,6348.0
+430,2014-03-03,Canada,Revenue,Overhead,49212.536561445566
+431,2014-03-03,Canada,Labor,Overhead,17164.0
+432,2014-03-03,Canada,Raw Materials,Overhead,15667.536561445562
+433,2014-03-03,Canada,Admin,Overhead,7504.0
+434,2014-03-03,Canada,Utilities,Overhead,5967.0
+435,2014-03-03,Mexico,Revenue,Product A,70463.0
+436,2014-03-03,Mexico,Labor,Product A,12786.0
+437,2014-03-03,Mexico,Raw Materials,Product A,15294.639498248243
+438,2014-03-03,Mexico,Admin,Product A,7143.0
+439,2014-03-03,Mexico,Utilities,Product A,4687.0
+440,2014-03-03,Mexico,Revenue,Product B,53725.7230456374
+441,2014-03-03,Mexico,Labor,Product B,16806.0
+442,2014-03-03,Mexico,Raw Materials,Product B,19701.7230456374
+443,2014-03-03,Mexico,Admin,Product B,8440.0
+444,2014-03-03,Mexico,Utilities,Product B,6766.0
+445,2014-03-03,Mexico,Revenue,Overhead,51454.25305937549
+446,2014-03-03,Mexico,Labor,Overhead,15644.0
+447,2014-03-03,Mexico,Raw Materials,Overhead,17145.25305937549
+448,2014-03-03,Mexico,Admin,Overhead,8952.0
+449,2014-03-03,Mexico,Utilities,Overhead,5109.0
+450,2014-03-10,United States,Revenue,Product A,52583.262566306454
+451,2014-03-10,United States,Labor,Product A,18787.0
+452,2014-03-10,United States,Raw Materials,Product A,21240.262566306454
+453,2014-03-10,United States,Admin,Product A,5395.0
+454,2014-03-10,United States,Utilities,Product A,5492.0
+455,2014-03-10,United States,Revenue,Product B,49020.11628290531
+456,2014-03-10,United States,Labor,Product B,17400.0
+457,2014-03-10,United States,Raw Materials,Product B,19816.116282905303
+458,2014-03-10,United States,Admin,Product B,6819.0
+459,2014-03-10,United States,Utilities,Product B,3717.0
+460,2014-03-10,United States,Revenue,Overhead,48220.864220862335
+461,2014-03-10,United States,Labor,Overhead,12782.0
+462,2014-03-10,United States,Raw Materials,Overhead,15085.864220862337
+463,2014-03-10,United States,Admin,Overhead,9980.0
+464,2014-03-10,United States,Utilities,Overhead,6140.0
+465,2014-03-10,Canada,Revenue,Product A,81667.0
+466,2014-03-10,Canada,Labor,Product A,17266.0
+467,2014-03-10,Canada,Raw Materials,Product A,17973.49801064349
+468,2014-03-10,Canada,Admin,Product A,8636.0
+469,2014-03-10,Canada,Utilities,Product A,6222.0
+470,2014-03-10,Canada,Revenue,Product B,44244.0
+471,2014-03-10,Canada,Labor,Product B,11167.0
+472,2014-03-10,Canada,Raw Materials,Product B,12460.666320234714
+473,2014-03-10,Canada,Admin,Product B,7982.0
+474,2014-03-10,Canada,Utilities,Product B,5445.0
+475,2014-03-10,Canada,Revenue,Overhead,47640.52110189139
+476,2014-03-10,Canada,Labor,Overhead,14729.0
+477,2014-03-10,Canada,Raw Materials,Overhead,14384.521101891389
+478,2014-03-10,Canada,Admin,Overhead,9330.0
+479,2014-03-10,Canada,Utilities,Overhead,6914.0
+480,2014-03-10,Mexico,Revenue,Product A,98136.0
+481,2014-03-10,Mexico,Labor,Product A,16801.0
+482,2014-03-10,Mexico,Raw Materials,Product A,19950.528524283774
+483,2014-03-10,Mexico,Admin,Product A,7539.0
+484,2014-03-10,Mexico,Utilities,Product A,5960.0
+485,2014-03-10,Mexico,Revenue,Product B,38500.77912199672
+486,2014-03-10,Mexico,Labor,Product B,11542.0
+487,2014-03-10,Mexico,Raw Materials,Product B,11200.779121996718
+488,2014-03-10,Mexico,Admin,Product B,7993.0
+489,2014-03-10,Mexico,Utilities,Product B,5842.0
+490,2014-03-10,Mexico,Revenue,Overhead,39799.43829755063
+491,2014-03-10,Mexico,Labor,Overhead,12681.0
+492,2014-03-10,Mexico,Raw Materials,Overhead,10888.43829755063
+493,2014-03-10,Mexico,Admin,Overhead,7386.0
+494,2014-03-10,Mexico,Utilities,Overhead,6719.0
+495,2014-03-17,United States,Revenue,Product A,91459.0
+496,2014-03-17,United States,Labor,Product A,19580.0
+497,2014-03-17,United States,Raw Materials,Product A,18566.869295827888
+498,2014-03-17,United States,Admin,Product A,9312.0
+499,2014-03-17,United States,Utilities,Product A,4324.0
+500,2014-03-17,United States,Revenue,Product B,52365.868967564384
+501,2014-03-17,United States,Labor,Product B,19347.0
+502,2014-03-17,United States,Raw Materials,Product B,18187.868967564387
+503,2014-03-17,United States,Admin,Product B,6810.0
+504,2014-03-17,United States,Utilities,Product B,5492.0
+505,2014-03-17,United States,Revenue,Overhead,40545.90324773432
+506,2014-03-17,United States,Labor,Overhead,12923.0
+507,2014-03-17,United States,Raw Materials,Overhead,13224.903247734323
+508,2014-03-17,United States,Admin,Overhead,8602.0
+509,2014-03-17,United States,Utilities,Overhead,3038.0
+510,2014-03-17,Canada,Revenue,Product A,59435.0
+511,2014-03-17,Canada,Labor,Product A,14268.0
+512,2014-03-17,Canada,Raw Materials,Product A,11479.197521416614
+513,2014-03-17,Canada,Admin,Product A,5455.0
+514,2014-03-17,Canada,Utilities,Product A,3828.0
+515,2014-03-17,Canada,Revenue,Product B,54296.131130474874
+516,2014-03-17,Canada,Labor,Product B,19086.0
+517,2014-03-17,Canada,Raw Materials,Product B,20225.131130474874
+518,2014-03-17,Canada,Admin,Product B,6996.0
+519,2014-03-17,Canada,Utilities,Product B,5395.0
+520,2014-03-17,Canada,Revenue,Overhead,31479.256226926795
+521,2014-03-17,Canada,Labor,Overhead,10504.0
+522,2014-03-17,Canada,Raw Materials,Overhead,9978.256226926795
+523,2014-03-17,Canada,Admin,Overhead,5823.0
+524,2014-03-17,Canada,Utilities,Overhead,3928.0
+525,2014-03-17,Mexico,Revenue,Product A,52105.0
+526,2014-03-17,Mexico,Labor,Product A,15029.0
+527,2014-03-17,Mexico,Raw Materials,Product A,14646.276485285971
+528,2014-03-17,Mexico,Admin,Product A,6852.0
+529,2014-03-17,Mexico,Utilities,Product A,3814.0
+530,2014-03-17,Mexico,Revenue,Product B,44150.06528851932
+531,2014-03-17,Mexico,Labor,Product B,14175.0
+532,2014-03-17,Mexico,Raw Materials,Product B,14332.065288519321
+533,2014-03-17,Mexico,Admin,Product B,6250.0
+534,2014-03-17,Mexico,Utilities,Product B,4682.0
+535,2014-03-17,Mexico,Revenue,Overhead,53153.98558056396
+536,2014-03-17,Mexico,Labor,Overhead,16190.0
+537,2014-03-17,Mexico,Raw Materials,Overhead,17027.98558056396
+538,2014-03-17,Mexico,Admin,Overhead,8486.0
+539,2014-03-17,Mexico,Utilities,Overhead,6584.0
+540,2014-03-24,United States,Revenue,Product A,53330.0
+541,2014-03-24,United States,Labor,Product A,19588.0
+542,2014-03-24,United States,Raw Materials,Product A,21130.94719770416
+543,2014-03-24,United States,Admin,Product A,6353.0
+544,2014-03-24,United States,Utilities,Product A,5783.0
+545,2014-03-24,United States,Revenue,Product B,47897.4727409737
+546,2014-03-24,United States,Labor,Product B,15063.0
+547,2014-03-24,United States,Raw Materials,Product B,14427.472740973704
+548,2014-03-24,United States,Admin,Product B,9468.0
+549,2014-03-24,United States,Utilities,Product B,4031.0
+550,2014-03-24,United States,Revenue,Overhead,50139.679546231346
+551,2014-03-24,United States,Labor,Overhead,19337.0
+552,2014-03-24,United States,Raw Materials,Overhead,16924.67954623135
+553,2014-03-24,United States,Admin,Overhead,5539.0
+554,2014-03-24,United States,Utilities,Overhead,5779.0
+555,2014-03-24,Canada,Revenue,Product A,70159.0
+556,2014-03-24,Canada,Labor,Product A,14964.0
+557,2014-03-24,Canada,Raw Materials,Product A,17803.537560766606
+558,2014-03-24,Canada,Admin,Product A,7508.0
+559,2014-03-24,Canada,Utilities,Product A,5779.0
+560,2014-03-24,Canada,Revenue,Product B,39708.0
+561,2014-03-24,Canada,Labor,Product B,10924.0
+562,2014-03-24,Canada,Raw Materials,Product B,9321.165723177697
+563,2014-03-24,Canada,Admin,Product B,9485.0
+564,2014-03-24,Canada,Utilities,Product B,4617.0
+565,2014-03-24,Canada,Revenue,Overhead,50435.240139928086
+566,2014-03-24,Canada,Labor,Overhead,17026.0
+567,2014-03-24,Canada,Raw Materials,Overhead,18563.240139928086
+568,2014-03-24,Canada,Admin,Overhead,7871.0
+569,2014-03-24,Canada,Utilities,Overhead,3797.0
+570,2014-03-24,Mexico,Revenue,Product A,87892.0
+571,2014-03-24,Mexico,Labor,Product A,17409.0
+572,2014-03-24,Mexico,Raw Materials,Product A,17768.237309247885
+573,2014-03-24,Mexico,Admin,Product A,6824.0
+574,2014-03-24,Mexico,Utilities,Product A,3373.0
+575,2014-03-24,Mexico,Revenue,Product B,49524.0
+576,2014-03-24,Mexico,Labor,Product B,12193.0
+577,2014-03-24,Mexico,Raw Materials,Product B,14569.543137894845
+578,2014-03-24,Mexico,Admin,Product B,9158.0
+579,2014-03-24,Mexico,Utilities,Product B,4240.0
+580,2014-03-24,Mexico,Revenue,Overhead,46716.44470933529
+581,2014-03-24,Mexico,Labor,Overhead,13925.0
+582,2014-03-24,Mexico,Raw Materials,Overhead,15758.444709335285
+583,2014-03-24,Mexico,Admin,Overhead,9000.0
+584,2014-03-24,Mexico,Utilities,Overhead,4633.0
+585,2014-03-31,United States,Revenue,Product A,50404.0
+586,2014-03-31,United States,Labor,Product A,17266.0
+587,2014-03-31,United States,Raw Materials,Product A,14737.236273284692
+588,2014-03-31,United States,Admin,Product A,9613.0
+589,2014-03-31,United States,Utilities,Product A,3475.0
+590,2014-03-31,United States,Revenue,Product B,39961.86212014142
+591,2014-03-31,United States,Labor,Product B,12000.0
+592,2014-03-31,United States,Raw Materials,Product B,12164.862120141423
+593,2014-03-31,United States,Admin,Product B,6460.0
+594,2014-03-31,United States,Utilities,Product B,6094.0
+595,2014-03-31,United States,Revenue,Overhead,50792.284506956596
+596,2014-03-31,United States,Labor,Overhead,17140.0
+597,2014-03-31,United States,Raw Materials,Overhead,18690.284506956592
+598,2014-03-31,United States,Admin,Overhead,7048.0
+599,2014-03-31,United States,Utilities,Overhead,3050.0
+600,2014-03-31,Canada,Revenue,Product A,71949.0
+601,2014-03-31,Canada,Labor,Product A,14780.0
+602,2014-03-31,Canada,Raw Materials,Product A,15407.704438873603
+603,2014-03-31,Canada,Admin,Product A,9583.0
+604,2014-03-31,Canada,Utilities,Product A,4823.0
+605,2014-03-31,Canada,Revenue,Product B,37457.32641451904
+606,2014-03-31,Canada,Labor,Product B,13419.0
+607,2014-03-31,Canada,Raw Materials,Product B,12177.32641451904
+608,2014-03-31,Canada,Admin,Product B,5249.0
+609,2014-03-31,Canada,Utilities,Product B,3673.0
+610,2014-03-31,Canada,Revenue,Overhead,32867.86436279047
+611,2014-03-31,Canada,Labor,Overhead,10770.0
+612,2014-03-31,Canada,Raw Materials,Overhead,10856.864362790468
+613,2014-03-31,Canada,Admin,Overhead,6077.0
+614,2014-03-31,Canada,Utilities,Overhead,3235.0
+615,2014-03-31,Mexico,Revenue,Product A,87626.0
+616,2014-03-31,Mexico,Labor,Product A,18580.0
+617,2014-03-31,Mexico,Raw Materials,Product A,15521.049916053487
+618,2014-03-31,Mexico,Admin,Product A,9719.0
+619,2014-03-31,Mexico,Utilities,Product A,5814.0
+620,2014-03-31,Mexico,Revenue,Product B,43617.89820154668
+621,2014-03-31,Mexico,Labor,Product B,13374.0
+622,2014-03-31,Mexico,Raw Materials,Product B,12948.898201546685
+623,2014-03-31,Mexico,Admin,Product B,8981.0
+624,2014-03-31,Mexico,Utilities,Product B,3577.0
+625,2014-03-31,Mexico,Revenue,Overhead,47330.11395302855
+626,2014-03-31,Mexico,Labor,Overhead,14530.0
+627,2014-03-31,Mexico,Raw Materials,Overhead,16873.11395302855
+628,2014-03-31,Mexico,Admin,Overhead,6329.0
+629,2014-03-31,Mexico,Utilities,Overhead,5145.0
+630,2014-04-07,United States,Revenue,Product A,73386.0
+631,2014-04-07,United States,Labor,Product A,18017.0
+632,2014-04-07,United States,Raw Materials,Product A,17240.424384224752
+633,2014-04-07,United States,Admin,Product A,7017.0
+634,2014-04-07,United States,Utilities,Product A,4331.0
+635,2014-04-07,United States,Revenue,Product B,45705.973556240424
+636,2014-04-07,United States,Labor,Product B,14261.0
+637,2014-04-07,United States,Raw Materials,Product B,13980.973556240426
+638,2014-04-07,United States,Admin,Product B,9637.0
+639,2014-04-07,United States,Utilities,Product B,3758.0
+640,2014-04-07,United States,Revenue,Overhead,42323.94663606235
+641,2014-04-07,United States,Labor,Overhead,13177.0
+642,2014-04-07,United States,Raw Materials,Overhead,15086.946636062345
+643,2014-04-07,United States,Admin,Overhead,5137.0
+644,2014-04-07,United States,Utilities,Overhead,5231.0
+645,2014-04-07,Canada,Revenue,Product A,69963.0
+646,2014-04-07,Canada,Labor,Product A,13472.0
+647,2014-04-07,Canada,Raw Materials,Product A,13429.516280147016
+648,2014-04-07,Canada,Admin,Product A,9164.0
+649,2014-04-07,Canada,Utilities,Product A,5593.0
+650,2014-04-07,Canada,Revenue,Product B,48915.02448973043
+651,2014-04-07,Canada,Labor,Product B,17941.0
+652,2014-04-07,Canada,Raw Materials,Product B,17888.02448973043
+653,2014-04-07,Canada,Admin,Product B,8818.0
+654,2014-04-07,Canada,Utilities,Product B,3042.0
+655,2014-04-07,Canada,Revenue,Overhead,41117.46329575909
+656,2014-04-07,Canada,Labor,Overhead,11906.0
+657,2014-04-07,Canada,Raw Materials,Overhead,12083.463295759087
+658,2014-04-07,Canada,Admin,Overhead,8445.0
+659,2014-04-07,Canada,Utilities,Overhead,4935.0
+660,2014-04-07,Mexico,Revenue,Product A,92679.0
+661,2014-04-07,Mexico,Labor,Product A,17687.0
+662,2014-04-07,Mexico,Raw Materials,Product A,15423.539938416818
+663,2014-04-07,Mexico,Admin,Product A,6887.0
+664,2014-04-07,Mexico,Utilities,Product A,6266.0
+665,2014-04-07,Mexico,Revenue,Product B,48732.0
+666,2014-04-07,Mexico,Labor,Product B,10666.0
+667,2014-04-07,Mexico,Raw Materials,Product B,11380.86833562611
+668,2014-04-07,Mexico,Admin,Product B,8122.0
+669,2014-04-07,Mexico,Utilities,Product B,6474.0
+670,2014-04-07,Mexico,Revenue,Overhead,52562.15919700952
+671,2014-04-07,Mexico,Labor,Overhead,17956.0
+672,2014-04-07,Mexico,Raw Materials,Overhead,15578.159197009514
+673,2014-04-07,Mexico,Admin,Overhead,8900.0
+674,2014-04-07,Mexico,Utilities,Overhead,5581.0
+675,2014-04-14,United States,Revenue,Product A,89144.0
+676,2014-04-14,United States,Labor,Product A,16981.0
+677,2014-04-14,United States,Raw Materials,Product A,14404.207090863722
+678,2014-04-14,United States,Admin,Product A,8117.0
+679,2014-04-14,United States,Utilities,Product A,5593.0
+680,2014-04-14,United States,Revenue,Product B,58346.96994280508
+681,2014-04-14,United States,Labor,Product B,19945.0
+682,2014-04-14,United States,Raw Materials,Product B,21463.969942805077
+683,2014-04-14,United States,Admin,Product B,7296.0
+684,2014-04-14,United States,Utilities,Product B,5094.0
+685,2014-04-14,United States,Revenue,Overhead,48675.73563541772
+686,2014-04-14,United States,Labor,Overhead,15240.0
+687,2014-04-14,United States,Raw Materials,Overhead,16384.73563541772
+688,2014-04-14,United States,Admin,Overhead,9143.0
+689,2014-04-14,United States,Utilities,Overhead,6644.0
+690,2014-04-14,Canada,Revenue,Product A,63568.0
+691,2014-04-14,Canada,Labor,Product A,14432.0
+692,2014-04-14,Canada,Raw Materials,Product A,13143.95928722418
+693,2014-04-14,Canada,Admin,Product A,6276.0
+694,2014-04-14,Canada,Utilities,Product A,4715.0
+695,2014-04-14,Canada,Revenue,Product B,35061.24144118273
+696,2014-04-14,Canada,Labor,Product B,10302.0
+697,2014-04-14,Canada,Raw Materials,Product B,9768.241441182727
+698,2014-04-14,Canada,Admin,Product B,9569.0
+699,2014-04-14,Canada,Utilities,Product B,3027.0
+700,2014-04-14,Canada,Revenue,Overhead,56450.98937384786
+701,2014-04-14,Canada,Labor,Overhead,18150.0
+702,2014-04-14,Canada,Raw Materials,Overhead,18376.989373847857
+703,2014-04-14,Canada,Admin,Overhead,9621.0
+704,2014-04-14,Canada,Utilities,Overhead,5746.0
+705,2014-04-14,Mexico,Revenue,Product A,67302.0
+706,2014-04-14,Mexico,Labor,Product A,15126.0
+707,2014-04-14,Mexico,Raw Materials,Product A,16258.426173892314
+708,2014-04-14,Mexico,Admin,Product A,6531.0
+709,2014-04-14,Mexico,Utilities,Product A,6345.0
+710,2014-04-14,Mexico,Revenue,Product B,51426.933645170764
+711,2014-04-14,Mexico,Labor,Product B,17673.0
+712,2014-04-14,Mexico,Raw Materials,Product B,16641.933645170764
+713,2014-04-14,Mexico,Admin,Product B,9580.0
+714,2014-04-14,Mexico,Utilities,Product B,5075.0
+715,2014-04-14,Mexico,Revenue,Overhead,50922.70402584644
+716,2014-04-14,Mexico,Labor,Overhead,18905.0
+717,2014-04-14,Mexico,Raw Materials,Overhead,19388.70402584644
+718,2014-04-14,Mexico,Admin,Overhead,5125.0
+719,2014-04-14,Mexico,Utilities,Overhead,5859.0
+720,2014-04-21,United States,Revenue,Product A,94243.0
+721,2014-04-21,United States,Labor,Product A,14632.0
+722,2014-04-21,United States,Raw Materials,Product A,16917.67806871446
+723,2014-04-21,United States,Admin,Product A,5066.0
+724,2014-04-21,United States,Utilities,Product A,3232.0
+725,2014-04-21,United States,Revenue,Product B,55345.94547906425
+726,2014-04-21,United States,Labor,Product B,19361.0
+727,2014-04-21,United States,Raw Materials,Product B,16161.945479064245
+728,2014-04-21,United States,Admin,Product B,9718.0
+729,2014-04-21,United States,Utilities,Product B,6847.0
+730,2014-04-21,United States,Revenue,Overhead,47952.78355780795
+731,2014-04-21,United States,Labor,Overhead,16891.0
+732,2014-04-21,United States,Raw Materials,Overhead,14374.783557807948
+733,2014-04-21,United States,Admin,Overhead,7739.0
+734,2014-04-21,United States,Utilities,Overhead,4305.0
+735,2014-04-21,Canada,Revenue,Product A,60554.0
+736,2014-04-21,Canada,Labor,Product A,11761.0
+737,2014-04-21,Canada,Raw Materials,Product A,10558.33498456792
+738,2014-04-21,Canada,Admin,Product A,8812.0
+739,2014-04-21,Canada,Utilities,Product A,6448.0
+740,2014-04-21,Canada,Revenue,Product B,50744.9800874268
+741,2014-04-21,Canada,Labor,Product B,19504.0
+742,2014-04-21,Canada,Raw Materials,Product B,15661.980087426797
+743,2014-04-21,Canada,Admin,Product B,6605.0
+744,2014-04-21,Canada,Utilities,Product B,4526.0
+745,2014-04-21,Canada,Revenue,Overhead,48281.25783417719
+746,2014-04-21,Canada,Labor,Overhead,16767.0
+747,2014-04-21,Canada,Raw Materials,Overhead,14491.25783417719
+748,2014-04-21,Canada,Admin,Overhead,8735.0
+749,2014-04-21,Canada,Utilities,Overhead,5870.0
+750,2014-04-21,Mexico,Revenue,Product A,74818.0
+751,2014-04-21,Mexico,Labor,Product A,19352.0
+752,2014-04-21,Mexico,Raw Materials,Product A,16102.673378417641
+753,2014-04-21,Mexico,Admin,Product A,9324.0
+754,2014-04-21,Mexico,Utilities,Product A,5595.0
+755,2014-04-21,Mexico,Revenue,Product B,49902.27018373346
+756,2014-04-21,Mexico,Labor,Product B,19111.0
+757,2014-04-21,Mexico,Raw Materials,Product B,16145.27018373346
+758,2014-04-21,Mexico,Admin,Product B,9170.0
+759,2014-04-21,Mexico,Utilities,Product B,3003.0
+760,2014-04-21,Mexico,Revenue,Overhead,51081.94907391048
+761,2014-04-21,Mexico,Labor,Overhead,15966.0
+762,2014-04-21,Mexico,Raw Materials,Overhead,17990.94907391048
+763,2014-04-21,Mexico,Admin,Overhead,9289.0
+764,2014-04-21,Mexico,Utilities,Overhead,3846.0
+765,2014-04-28,United States,Revenue,Product A,56469.0
+766,2014-04-28,United States,Labor,Product A,16316.0
+767,2014-04-28,United States,Raw Materials,Product A,18074.81867918386
+768,2014-04-28,United States,Admin,Product A,6810.0
+769,2014-04-28,United States,Utilities,Product A,3723.0
+770,2014-04-28,United States,Revenue,Product B,49230.0
+771,2014-04-28,United States,Labor,Product B,10224.0
+772,2014-04-28,United States,Raw Materials,Product B,11190.156482453336
+773,2014-04-28,United States,Admin,Product B,7048.0
+774,2014-04-28,United States,Utilities,Product B,5137.0
+775,2014-04-28,United States,Revenue,Overhead,54891.26937856717
+776,2014-04-28,United States,Labor,Overhead,19765.0
+777,2014-04-28,United States,Raw Materials,Overhead,20407.269378567173
+778,2014-04-28,United States,Admin,Overhead,7026.0
+779,2014-04-28,United States,Utilities,Overhead,5306.0
+780,2014-04-28,Canada,Revenue,Product A,50009.0
+781,2014-04-28,Canada,Labor,Product A,13744.0
+782,2014-04-28,Canada,Raw Materials,Product A,13025.081495148805
+783,2014-04-28,Canada,Admin,Product A,6673.0
+784,2014-04-28,Canada,Utilities,Product A,5219.0
+785,2014-04-28,Canada,Revenue,Product B,45432.0927488857
+786,2014-04-28,Canada,Labor,Product B,17041.0
+787,2014-04-28,Canada,Raw Materials,Product B,15830.092748885701
+788,2014-04-28,Canada,Admin,Product B,5320.0
+789,2014-04-28,Canada,Utilities,Product B,4342.0
+790,2014-04-28,Canada,Revenue,Overhead,40728.57755802642
+791,2014-04-28,Canada,Labor,Overhead,12832.0
+792,2014-04-28,Canada,Raw Materials,Overhead,10864.577558026424
+793,2014-04-28,Canada,Admin,Overhead,7038.0
+794,2014-04-28,Canada,Utilities,Overhead,6490.0
+795,2014-04-28,Mexico,Revenue,Product A,81037.0
+796,2014-04-28,Mexico,Labor,Product A,19310.0
+797,2014-04-28,Mexico,Raw Materials,Product A,22627.683110170205
+798,2014-04-28,Mexico,Admin,Product A,6969.0
+799,2014-04-28,Mexico,Utilities,Product A,3333.0
+800,2014-04-28,Mexico,Revenue,Product B,39019.0
+801,2014-04-28,Mexico,Labor,Product B,11908.0
+802,2014-04-28,Mexico,Raw Materials,Product B,13007.667957889998
+803,2014-04-28,Mexico,Admin,Product B,6570.0
+804,2014-04-28,Mexico,Utilities,Product B,5560.0
+805,2014-04-28,Mexico,Revenue,Overhead,48690.364331932375
+806,2014-04-28,Mexico,Labor,Overhead,15415.0
+807,2014-04-28,Mexico,Raw Materials,Overhead,16781.364331932375
+808,2014-04-28,Mexico,Admin,Overhead,8850.0
+809,2014-04-28,Mexico,Utilities,Overhead,3872.0
+810,2014-05-05,United States,Revenue,Product A,73325.0
+811,2014-05-05,United States,Labor,Product A,19444.0
+812,2014-05-05,United States,Raw Materials,Product A,17123.37664440334
+813,2014-05-05,United States,Admin,Product A,7898.0
+814,2014-05-05,United States,Utilities,Product A,6450.0
+815,2014-05-05,United States,Revenue,Product B,36984.0
+816,2014-05-05,United States,Labor,Product B,10077.0
+817,2014-05-05,United States,Raw Materials,Product B,10169.972114159365
+818,2014-05-05,United States,Admin,Product B,6065.0
+819,2014-05-05,United States,Utilities,Product B,5136.0
+820,2014-05-05,United States,Revenue,Overhead,60347.35827769096
+821,2014-05-05,United States,Labor,Overhead,19510.0
+822,2014-05-05,United States,Raw Materials,Overhead,21178.35827769096
+823,2014-05-05,United States,Admin,Overhead,9670.0
+824,2014-05-05,United States,Utilities,Overhead,5190.0
+825,2014-05-05,Canada,Revenue,Product A,84016.0
+826,2014-05-05,Canada,Labor,Product A,19184.0
+827,2014-05-05,Canada,Raw Materials,Product A,17129.107337478617
+828,2014-05-05,Canada,Admin,Product A,9033.0
+829,2014-05-05,Canada,Utilities,Product A,4997.0
+830,2014-05-05,Canada,Revenue,Product B,38005.46821023508
+831,2014-05-05,Canada,Labor,Product B,13687.0
+832,2014-05-05,Canada,Raw Materials,Product B,12203.468210235076
+833,2014-05-05,Canada,Admin,Product B,5197.0
+834,2014-05-05,Canada,Utilities,Product B,4669.0
+835,2014-05-05,Canada,Revenue,Overhead,34157.24507815547
+836,2014-05-05,Canada,Labor,Overhead,11202.0
+837,2014-05-05,Canada,Raw Materials,Overhead,10462.245078155473
+838,2014-05-05,Canada,Admin,Overhead,7035.0
+839,2014-05-05,Canada,Utilities,Overhead,3477.0
+840,2014-05-05,Mexico,Revenue,Product A,60789.0
+841,2014-05-05,Mexico,Labor,Product A,19446.0
+842,2014-05-05,Mexico,Raw Materials,Product A,20014.996565863672
+843,2014-05-05,Mexico,Admin,Product A,8068.0
+844,2014-05-05,Mexico,Utilities,Product A,6044.0
+845,2014-05-05,Mexico,Revenue,Product B,39029.0
+846,2014-05-05,Mexico,Labor,Product B,10950.0
+847,2014-05-05,Mexico,Raw Materials,Product B,9386.900576702297
+848,2014-05-05,Mexico,Admin,Product B,6857.0
+849,2014-05-05,Mexico,Utilities,Product B,6593.0
+850,2014-05-05,Mexico,Revenue,Overhead,46365.11979374508
+851,2014-05-05,Mexico,Labor,Overhead,14612.0
+852,2014-05-05,Mexico,Raw Materials,Overhead,16814.119793745074
+853,2014-05-05,Mexico,Admin,Overhead,7853.0
+854,2014-05-05,Mexico,Utilities,Overhead,4932.0
+855,2014-05-12,United States,Revenue,Product A,56359.0
+856,2014-05-12,United States,Labor,Product A,17326.0
+857,2014-05-12,United States,Raw Materials,Product A,16486.18497793565
+858,2014-05-12,United States,Admin,Product A,8228.0
+859,2014-05-12,United States,Utilities,Product A,6719.0
+860,2014-05-12,United States,Revenue,Product B,38196.79460943625
+861,2014-05-12,United States,Labor,Product B,12371.0
+862,2014-05-12,United States,Raw Materials,Product B,13470.79460943625
+863,2014-05-12,United States,Admin,Product B,5094.0
+864,2014-05-12,United States,Utilities,Product B,5674.0
+865,2014-05-12,United States,Revenue,Overhead,47512.784021225445
+866,2014-05-12,United States,Labor,Overhead,16898.0
+867,2014-05-12,United States,Raw Materials,Overhead,17340.784021225445
+868,2014-05-12,United States,Admin,Overhead,7116.0
+869,2014-05-12,United States,Utilities,Overhead,4683.0
+870,2014-05-12,Canada,Revenue,Product A,60541.0
+871,2014-05-12,Canada,Labor,Product A,16166.0
+872,2014-05-12,Canada,Raw Materials,Product A,15920.31432868442
+873,2014-05-12,Canada,Admin,Product A,7265.0
+874,2014-05-12,Canada,Utilities,Product A,5188.0
+875,2014-05-12,Canada,Revenue,Product B,48894.88735064099
+876,2014-05-12,Canada,Labor,Product B,17783.0
+877,2014-05-12,Canada,Raw Materials,Product B,17824.887350640984
+878,2014-05-12,Canada,Admin,Product B,6639.0
+879,2014-05-12,Canada,Utilities,Product B,3827.0
+880,2014-05-12,Canada,Revenue,Overhead,41705.015823852475
+881,2014-05-12,Canada,Labor,Overhead,13531.0
+882,2014-05-12,Canada,Raw Materials,Overhead,11378.015823852471
+883,2014-05-12,Canada,Admin,Overhead,7935.0
+884,2014-05-12,Canada,Utilities,Overhead,6876.0
+885,2014-05-12,Mexico,Revenue,Product A,77632.0
+886,2014-05-12,Mexico,Labor,Product A,15959.0
+887,2014-05-12,Mexico,Raw Materials,Product A,16925.267728064566
+888,2014-05-12,Mexico,Admin,Product A,8449.0
+889,2014-05-12,Mexico,Utilities,Product A,4928.0
+890,2014-05-12,Mexico,Revenue,Product B,47176.49759138803
+891,2014-05-12,Mexico,Labor,Product B,15109.0
+892,2014-05-12,Mexico,Raw Materials,Product B,12554.497591388035
+893,2014-05-12,Mexico,Admin,Product B,8368.0
+894,2014-05-12,Mexico,Utilities,Product B,6797.0
+895,2014-05-12,Mexico,Revenue,Overhead,37074.72121462168
+896,2014-05-12,Mexico,Labor,Overhead,11792.0
+897,2014-05-12,Mexico,Raw Materials,Overhead,9967.721214621675
+898,2014-05-12,Mexico,Admin,Overhead,6645.0
+899,2014-05-12,Mexico,Utilities,Overhead,5467.0
+900,2014-05-19,United States,Revenue,Product A,85840.0
+901,2014-05-19,United States,Labor,Product A,19397.0
+902,2014-05-19,United States,Raw Materials,Product A,22015.523533712534
+903,2014-05-19,United States,Admin,Product A,9662.0
+904,2014-05-19,United States,Utilities,Product A,5418.0
+905,2014-05-19,United States,Revenue,Product B,43496.0
+906,2014-05-19,United States,Labor,Product B,15031.0
+907,2014-05-19,United States,Raw Materials,Product B,15679.704253248603
+908,2014-05-19,United States,Admin,Product B,6332.0
+909,2014-05-19,United States,Utilities,Product B,6208.0
+910,2014-05-19,United States,Revenue,Overhead,54710.15339202529
+911,2014-05-19,United States,Labor,Overhead,18393.0
+912,2014-05-19,United States,Raw Materials,Overhead,20621.15339202529
+913,2014-05-19,United States,Admin,Overhead,5574.0
+914,2014-05-19,United States,Utilities,Overhead,5291.0
+915,2014-05-19,Canada,Revenue,Product A,57973.0
+916,2014-05-19,Canada,Labor,Product A,10536.0
+917,2014-05-19,Canada,Raw Materials,Product A,12068.010851799245
+918,2014-05-19,Canada,Admin,Product A,8281.0
+919,2014-05-19,Canada,Utilities,Product A,3474.0
+920,2014-05-19,Canada,Revenue,Product B,52402.80959055819
+921,2014-05-19,Canada,Labor,Product B,18609.0
+922,2014-05-19,Canada,Raw Materials,Product B,21723.809590558183
+923,2014-05-19,Canada,Admin,Product B,5954.0
+924,2014-05-19,Canada,Utilities,Product B,3875.0
+925,2014-05-19,Canada,Revenue,Overhead,38525.56647352089
+926,2014-05-19,Canada,Labor,Overhead,11205.0
+927,2014-05-19,Canada,Raw Materials,Overhead,9754.566473520894
+928,2014-05-19,Canada,Admin,Overhead,9805.0
+929,2014-05-19,Canada,Utilities,Overhead,6572.0
+930,2014-05-19,Mexico,Revenue,Product A,87148.0
+931,2014-05-19,Mexico,Labor,Product A,15975.0
+932,2014-05-19,Mexico,Raw Materials,Product A,14770.31356353832
+933,2014-05-19,Mexico,Admin,Product A,9757.0
+934,2014-05-19,Mexico,Utilities,Product A,5713.0
+935,2014-05-19,Mexico,Revenue,Product B,45830.61094454296
+936,2014-05-19,Mexico,Labor,Product B,15588.0
+937,2014-05-19,Mexico,Raw Materials,Product B,15682.61094454296
+938,2014-05-19,Mexico,Admin,Product B,8432.0
+939,2014-05-19,Mexico,Utilities,Product B,3688.0
+940,2014-05-19,Mexico,Revenue,Overhead,41086.5965576976
+941,2014-05-19,Mexico,Labor,Overhead,14243.0
+942,2014-05-19,Mexico,Raw Materials,Overhead,13756.5965576976
+943,2014-05-19,Mexico,Admin,Overhead,6724.0
+944,2014-05-19,Mexico,Utilities,Overhead,4383.0
+945,2014-05-26,United States,Revenue,Product A,51759.0
+946,2014-05-26,United States,Labor,Product A,16704.0
+947,2014-05-26,United States,Raw Materials,Product A,15364.980044058893
+948,2014-05-26,United States,Admin,Product A,7262.0
+949,2014-05-26,United States,Utilities,Product A,5482.0
+950,2014-05-26,United States,Revenue,Product B,54028.38550184686
+951,2014-05-26,United States,Labor,Product B,18058.0
+952,2014-05-26,United States,Raw Materials,Product B,20223.38550184686
+953,2014-05-26,United States,Admin,Product B,7717.0
+954,2014-05-26,United States,Utilities,Product B,5332.0
+955,2014-05-26,United States,Revenue,Overhead,41885.636664248406
+956,2014-05-26,United States,Labor,Overhead,14524.0
+957,2014-05-26,United States,Raw Materials,Overhead,13813.636664248408
+958,2014-05-26,United States,Admin,Overhead,7065.0
+959,2014-05-26,United States,Utilities,Overhead,3768.0
+960,2014-05-26,Canada,Revenue,Product A,78865.0
+961,2014-05-26,Canada,Labor,Product A,15490.0
+962,2014-05-26,Canada,Raw Materials,Product A,15200.577620098778
+963,2014-05-26,Canada,Admin,Product A,7161.0
+964,2014-05-26,Canada,Utilities,Product A,6293.0
+965,2014-05-26,Canada,Revenue,Product B,52955.73326880136
+966,2014-05-26,Canada,Labor,Product B,15797.0
+967,2014-05-26,Canada,Raw Materials,Product B,17473.733268801363
+968,2014-05-26,Canada,Admin,Product B,9150.0
+969,2014-05-26,Canada,Utilities,Product B,6942.0
+970,2014-05-26,Canada,Revenue,Overhead,43007.11420946563
+971,2014-05-26,Canada,Labor,Overhead,14873.0
+972,2014-05-26,Canada,Raw Materials,Overhead,13509.11420946563
+973,2014-05-26,Canada,Admin,Overhead,8451.0
+974,2014-05-26,Canada,Utilities,Overhead,5134.0
+975,2014-05-26,Mexico,Revenue,Product A,69846.0
+976,2014-05-26,Mexico,Labor,Product A,10054.0
+977,2014-05-26,Mexico,Raw Materials,Product A,8671.183285567871
+978,2014-05-26,Mexico,Admin,Product A,5832.0
+979,2014-05-26,Mexico,Utilities,Product A,3312.0
+980,2014-05-26,Mexico,Revenue,Product B,44997.82692190644
+981,2014-05-26,Mexico,Labor,Product B,15954.0
+982,2014-05-26,Mexico,Raw Materials,Product B,14237.826921906437
+983,2014-05-26,Mexico,Admin,Product B,5327.0
+984,2014-05-26,Mexico,Utilities,Product B,6125.0
+985,2014-05-26,Mexico,Revenue,Overhead,43660.71728857288
+986,2014-05-26,Mexico,Labor,Overhead,13310.0
+987,2014-05-26,Mexico,Raw Materials,Overhead,13679.717288572878
+988,2014-05-26,Mexico,Admin,Overhead,8675.0
+989,2014-05-26,Mexico,Utilities,Overhead,6054.0
+990,2014-06-02,United States,Revenue,Product A,81821.0
+991,2014-06-02,United States,Labor,Product A,17970.0
+992,2014-06-02,United States,Raw Materials,Product A,16123.921708904078
+993,2014-06-02,United States,Admin,Product A,7538.0
+994,2014-06-02,United States,Utilities,Product A,6983.0
+995,2014-06-02,United States,Revenue,Product B,42996.0
+996,2014-06-02,United States,Labor,Product B,14547.0
+997,2014-06-02,United States,Raw Materials,Product B,17132.931311189037
+998,2014-06-02,United States,Admin,Product B,5822.0
+999,2014-06-02,United States,Utilities,Product B,3943.0
+1000,2014-06-02,United States,Revenue,Overhead,45799.7354059248
+1001,2014-06-02,United States,Labor,Overhead,16150.0
+1002,2014-06-02,United States,Raw Materials,Overhead,17010.735405924803
+1003,2014-06-02,United States,Admin,Overhead,8156.0
+1004,2014-06-02,United States,Utilities,Overhead,3146.0
+1005,2014-06-02,Canada,Revenue,Product A,63859.0
+1006,2014-06-02,Canada,Labor,Product A,13695.0
+1007,2014-06-02,Canada,Raw Materials,Product A,11949.90331342191
+1008,2014-06-02,Canada,Admin,Product A,9177.0
+1009,2014-06-02,Canada,Utilities,Product A,3513.0
+1010,2014-06-02,Canada,Revenue,Product B,45089.722404325046
+1011,2014-06-02,Canada,Labor,Product B,16852.0
+1012,2014-06-02,Canada,Raw Materials,Product B,15785.722404325043
+1013,2014-06-02,Canada,Admin,Product B,6409.0
+1014,2014-06-02,Canada,Utilities,Product B,3706.0
+1015,2014-06-02,Canada,Revenue,Overhead,39552.22666488473
+1016,2014-06-02,Canada,Labor,Overhead,14566.0
+1017,2014-06-02,Canada,Raw Materials,Overhead,11852.226664884733
+1018,2014-06-02,Canada,Admin,Overhead,6279.0
+1019,2014-06-02,Canada,Utilities,Overhead,4757.0
+1020,2014-06-02,Mexico,Revenue,Product A,93861.0
+1021,2014-06-02,Mexico,Labor,Product A,17083.0
+1022,2014-06-02,Mexico,Raw Materials,Product A,15166.359319983208
+1023,2014-06-02,Mexico,Admin,Product A,9688.0
+1024,2014-06-02,Mexico,Utilities,Product A,5761.0
+1025,2014-06-02,Mexico,Revenue,Product B,47418.58886076518
+1026,2014-06-02,Mexico,Labor,Product B,12679.0
+1027,2014-06-02,Mexico,Raw Materials,Product B,15140.588860765181
+1028,2014-06-02,Mexico,Admin,Product B,9831.0
+1029,2014-06-02,Mexico,Utilities,Product B,5768.0
+1030,2014-06-02,Mexico,Revenue,Overhead,42032.70666018361
+1031,2014-06-02,Mexico,Labor,Overhead,13186.0
+1032,2014-06-02,Mexico,Raw Materials,Overhead,13251.706660183609
+1033,2014-06-02,Mexico,Admin,Overhead,9033.0
+1034,2014-06-02,Mexico,Utilities,Overhead,3236.0
+1035,2014-06-09,United States,Revenue,Product A,67685.0
+1036,2014-06-09,United States,Labor,Product A,11304.0
+1037,2014-06-09,United States,Raw Materials,Product A,10209.264958454767
+1038,2014-06-09,United States,Admin,Product A,7051.0
+1039,2014-06-09,United States,Utilities,Product A,5713.0
+1040,2014-06-09,United States,Revenue,Product B,53376.545475575025
+1041,2014-06-09,United States,Labor,Product B,18633.0
+1042,2014-06-09,United States,Raw Materials,Product B,21618.54547557503
+1043,2014-06-09,United States,Admin,Product B,5804.0
+1044,2014-06-09,United States,Utilities,Product B,3074.0
+1045,2014-06-09,United States,Revenue,Overhead,49692.08321368153
+1046,2014-06-09,United States,Labor,Overhead,16981.0
+1047,2014-06-09,United States,Raw Materials,Overhead,19795.083213681533
+1048,2014-06-09,United States,Admin,Overhead,5040.0
+1049,2014-06-09,United States,Utilities,Overhead,5981.0
+1050,2014-06-09,Canada,Revenue,Product A,62875.0
+1051,2014-06-09,Canada,Labor,Product A,17184.0
+1052,2014-06-09,Canada,Raw Materials,Product A,16532.713257867123
+1053,2014-06-09,Canada,Admin,Product A,5341.0
+1054,2014-06-09,Canada,Utilities,Product A,5074.0
+1055,2014-06-09,Canada,Revenue,Product B,49960.535637411565
+1056,2014-06-09,Canada,Labor,Product B,17992.0
+1057,2014-06-09,Canada,Raw Materials,Product B,16311.535637411567
+1058,2014-06-09,Canada,Admin,Product B,5609.0
+1059,2014-06-09,Canada,Utilities,Product B,5315.0
+1060,2014-06-09,Canada,Revenue,Overhead,49996.04113833246
+1061,2014-06-09,Canada,Labor,Overhead,16136.0
+1062,2014-06-09,Canada,Raw Materials,Overhead,16099.041138332459
+1063,2014-06-09,Canada,Admin,Overhead,8472.0
+1064,2014-06-09,Canada,Utilities,Overhead,5969.0
+1065,2014-06-09,Mexico,Revenue,Product A,86397.0
+1066,2014-06-09,Mexico,Labor,Product A,13028.0
+1067,2014-06-09,Mexico,Raw Materials,Product A,12419.011498413782
+1068,2014-06-09,Mexico,Admin,Product A,8067.0
+1069,2014-06-09,Mexico,Utilities,Product A,4845.0
+1070,2014-06-09,Mexico,Revenue,Product B,38135.49892114027
+1071,2014-06-09,Mexico,Labor,Product B,11386.0
+1072,2014-06-09,Mexico,Raw Materials,Product B,9948.49892114027
+1073,2014-06-09,Mexico,Admin,Product B,9889.0
+1074,2014-06-09,Mexico,Utilities,Product B,3028.0
+1075,2014-06-09,Mexico,Revenue,Overhead,52141.811475797425
+1076,2014-06-09,Mexico,Labor,Overhead,18340.0
+1077,2014-06-09,Mexico,Raw Materials,Overhead,20812.81147579742
+1078,2014-06-09,Mexico,Admin,Overhead,6136.0
+1079,2014-06-09,Mexico,Utilities,Overhead,3186.0
+1080,2014-06-16,United States,Revenue,Product A,73150.0
+1081,2014-06-16,United States,Labor,Product A,19442.0
+1082,2014-06-16,United States,Raw Materials,Product A,22936.169099358835
+1083,2014-06-16,United States,Admin,Product A,9501.0
+1084,2014-06-16,United States,Utilities,Product A,5116.0
+1085,2014-06-16,United States,Revenue,Product B,48715.977150955136
+1086,2014-06-16,United States,Labor,Product B,17479.0
+1087,2014-06-16,United States,Raw Materials,Product B,15485.977150955136
+1088,2014-06-16,United States,Admin,Product B,6762.0
+1089,2014-06-16,United States,Utilities,Product B,6315.0
+1090,2014-06-16,United States,Revenue,Overhead,52898.998473553685
+1091,2014-06-16,United States,Labor,Overhead,17101.0
+1092,2014-06-16,United States,Raw Materials,Overhead,20214.998473553685
+1093,2014-06-16,United States,Admin,Overhead,5153.0
+1094,2014-06-16,United States,Utilities,Overhead,6521.0
+1095,2014-06-16,Canada,Revenue,Product A,85111.0
+1096,2014-06-16,Canada,Labor,Product A,11524.0
+1097,2014-06-16,Canada,Raw Materials,Product A,10806.671251231097
+1098,2014-06-16,Canada,Admin,Product A,6240.0
+1099,2014-06-16,Canada,Utilities,Product A,3060.0
+1100,2014-06-16,Canada,Revenue,Product B,59661.08491786792
+1101,2014-06-16,Canada,Labor,Product B,19130.0
+1102,2014-06-16,Canada,Raw Materials,Product B,19882.084917867916
+1103,2014-06-16,Canada,Admin,Product B,9226.0
+1104,2014-06-16,Canada,Utilities,Product B,6569.0
+1105,2014-06-16,Canada,Revenue,Overhead,40304.1291293285
+1106,2014-06-16,Canada,Labor,Overhead,11252.0
+1107,2014-06-16,Canada,Raw Materials,Overhead,9012.129129328503
+1108,2014-06-16,Canada,Admin,Overhead,9197.0
+1109,2014-06-16,Canada,Utilities,Overhead,5913.0
+1110,2014-06-16,Mexico,Revenue,Product A,99082.0
+1111,2014-06-16,Mexico,Labor,Product A,16667.0
+1112,2014-06-16,Mexico,Raw Materials,Product A,15740.140776119772
+1113,2014-06-16,Mexico,Admin,Product A,8004.0
+1114,2014-06-16,Mexico,Utilities,Product A,4040.0
+1115,2014-06-16,Mexico,Revenue,Product B,40491.0
+1116,2014-06-16,Mexico,Labor,Product B,10329.0
+1117,2014-06-16,Mexico,Raw Materials,Product B,11116.318656372408
+1118,2014-06-16,Mexico,Admin,Product B,6341.0
+1119,2014-06-16,Mexico,Utilities,Product B,6663.0
+1120,2014-06-16,Mexico,Revenue,Overhead,53548.49166539927
+1121,2014-06-16,Mexico,Labor,Overhead,18407.0
+1122,2014-06-16,Mexico,Raw Materials,Overhead,20309.491665399266
+1123,2014-06-16,Mexico,Admin,Overhead,8152.0
+1124,2014-06-16,Mexico,Utilities,Overhead,4750.0
+1125,2014-06-23,United States,Revenue,Product A,55319.0
+1126,2014-06-23,United States,Labor,Product A,15604.0
+1127,2014-06-23,United States,Raw Materials,Product A,16804.113405094628
+1128,2014-06-23,United States,Admin,Product A,8726.0
+1129,2014-06-23,United States,Utilities,Product A,6642.0
+1130,2014-06-23,United States,Revenue,Product B,44622.0
+1131,2014-06-23,United States,Labor,Product B,13993.0
+1132,2014-06-23,United States,Raw Materials,Product B,11483.192049030133
+1133,2014-06-23,United States,Admin,Product B,8359.0
+1134,2014-06-23,United States,Utilities,Product B,3777.0
+1135,2014-06-23,United States,Revenue,Overhead,45263.3711658287
+1136,2014-06-23,United States,Labor,Overhead,14806.0
+1137,2014-06-23,United States,Raw Materials,Overhead,17763.3711658287
+1138,2014-06-23,United States,Admin,Overhead,8157.0
+1139,2014-06-23,United States,Utilities,Overhead,3249.0
+1140,2014-06-23,Canada,Revenue,Product A,58820.0
+1141,2014-06-23,Canada,Labor,Product A,10390.0
+1142,2014-06-23,Canada,Raw Materials,Product A,8453.07948700258
+1143,2014-06-23,Canada,Admin,Product A,7930.0
+1144,2014-06-23,Canada,Utilities,Product A,5735.0
+1145,2014-06-23,Canada,Revenue,Product B,53412.938328277116
+1146,2014-06-23,Canada,Labor,Product B,18007.0
+1147,2014-06-23,Canada,Raw Materials,Product B,21399.938328277112
+1148,2014-06-23,Canada,Admin,Product B,8294.0
+1149,2014-06-23,Canada,Utilities,Product B,3989.0
+1150,2014-06-23,Canada,Revenue,Overhead,42664.58359216282
+1151,2014-06-23,Canada,Labor,Overhead,12419.0
+1152,2014-06-23,Canada,Raw Materials,Overhead,14130.583592162813
+1153,2014-06-23,Canada,Admin,Overhead,8561.0
+1154,2014-06-23,Canada,Utilities,Overhead,3614.0
+1155,2014-06-23,Mexico,Revenue,Product A,85435.0
+1156,2014-06-23,Mexico,Labor,Product A,15392.0
+1157,2014-06-23,Mexico,Raw Materials,Product A,16316.550343208868
+1158,2014-06-23,Mexico,Admin,Product A,5130.0
+1159,2014-06-23,Mexico,Utilities,Product A,5852.0
+1160,2014-06-23,Mexico,Revenue,Product B,40614.76822239056
+1161,2014-06-23,Mexico,Labor,Product B,12983.0
+1162,2014-06-23,Mexico,Raw Materials,Product B,12676.768222390554
+1163,2014-06-23,Mexico,Admin,Product B,5038.0
+1164,2014-06-23,Mexico,Utilities,Product B,6598.0
+1165,2014-06-23,Mexico,Revenue,Overhead,50489.600319974525
+1166,2014-06-23,Mexico,Labor,Overhead,16640.0
+1167,2014-06-23,Mexico,Raw Materials,Overhead,16895.600319974525
+1168,2014-06-23,Mexico,Admin,Overhead,7769.0
+1169,2014-06-23,Mexico,Utilities,Overhead,6232.0
+1170,2014-06-30,United States,Revenue,Product A,65229.0
+1171,2014-06-30,United States,Labor,Product A,18684.0
+1172,2014-06-30,United States,Raw Materials,Product A,19549.915123199273
+1173,2014-06-30,United States,Admin,Product A,5738.0
+1174,2014-06-30,United States,Utilities,Product A,6241.0
+1175,2014-06-30,United States,Revenue,Product B,33668.714374966934
+1176,2014-06-30,United States,Labor,Product B,10545.0
+1177,2014-06-30,United States,Raw Materials,Product B,8525.714374966934
+1178,2014-06-30,United States,Admin,Product B,8212.0
+1179,2014-06-30,United States,Utilities,Product B,4297.0
+1180,2014-06-30,United States,Revenue,Overhead,39807.84409454903
+1181,2014-06-30,United States,Labor,Overhead,13810.0
+1182,2014-06-30,United States,Raw Materials,Overhead,11434.844094549031
+1183,2014-06-30,United States,Admin,Overhead,9124.0
+1184,2014-06-30,United States,Utilities,Overhead,3957.0
+1185,2014-06-30,Canada,Revenue,Product A,58436.0
+1186,2014-06-30,Canada,Labor,Product A,12032.0
+1187,2014-06-30,Canada,Raw Materials,Product A,11560.01310101856
+1188,2014-06-30,Canada,Admin,Product A,5271.0
+1189,2014-06-30,Canada,Utilities,Product A,6511.0
+1190,2014-06-30,Canada,Revenue,Product B,40106.25860637796
+1191,2014-06-30,Canada,Labor,Product B,11771.0
+1192,2014-06-30,Canada,Raw Materials,Product B,14050.258606377962
+1193,2014-06-30,Canada,Admin,Product B,5920.0
+1194,2014-06-30,Canada,Utilities,Product B,6430.0
+1195,2014-06-30,Canada,Revenue,Overhead,47086.800209374254
+1196,2014-06-30,Canada,Labor,Overhead,14435.0
+1197,2014-06-30,Canada,Raw Materials,Overhead,15806.800209374258
+1198,2014-06-30,Canada,Admin,Overhead,7050.0
+1199,2014-06-30,Canada,Utilities,Overhead,6500.0
+1200,2014-06-30,Mexico,Revenue,Product A,84801.0
+1201,2014-06-30,Mexico,Labor,Product A,11165.0
+1202,2014-06-30,Mexico,Raw Materials,Product A,10258.414846247504
+1203,2014-06-30,Mexico,Admin,Product A,9388.0
+1204,2014-06-30,Mexico,Utilities,Product A,6736.0
+1205,2014-06-30,Mexico,Revenue,Product B,45839.546514616144
+1206,2014-06-30,Mexico,Labor,Product B,18623.0
+1207,2014-06-30,Mexico,Raw Materials,Product B,15031.546514616148
+1208,2014-06-30,Mexico,Admin,Product B,7632.0
+1209,2014-06-30,Mexico,Utilities,Product B,3398.0
+1210,2014-06-30,Mexico,Revenue,Overhead,51348.484534522424
+1211,2014-06-30,Mexico,Labor,Overhead,18056.0
+1212,2014-06-30,Mexico,Raw Materials,Overhead,19353.484534522424
+1213,2014-06-30,Mexico,Admin,Overhead,7041.0
+1214,2014-06-30,Mexico,Utilities,Overhead,4828.0
+1215,2014-07-07,United States,Revenue,Product A,50806.0
+1216,2014-07-07,United States,Labor,Product A,19130.0
+1217,2014-07-07,United States,Raw Materials,Product A,19807.616960103274
+1218,2014-07-07,United States,Admin,Product A,8415.0
+1219,2014-07-07,United States,Utilities,Product A,3010.0
+1220,2014-07-07,United States,Revenue,Product B,43477.25860386598
+1221,2014-07-07,United States,Labor,Product B,11868.0
+1222,2014-07-07,United States,Raw Materials,Product B,14190.258603865977
+1223,2014-07-07,United States,Admin,Product B,9867.0
+1224,2014-07-07,United States,Utilities,Product B,4594.0
+1225,2014-07-07,United States,Revenue,Overhead,54516.96775315776
+1226,2014-07-07,United States,Labor,Overhead,17827.0
+1227,2014-07-07,United States,Raw Materials,Overhead,20235.967753157765
+1228,2014-07-07,United States,Admin,Overhead,8564.0
+1229,2014-07-07,United States,Utilities,Overhead,4389.0
+1230,2014-07-07,Canada,Revenue,Product A,67320.0
+1231,2014-07-07,Canada,Labor,Product A,17274.0
+1232,2014-07-07,Canada,Raw Materials,Product A,15038.93808994526
+1233,2014-07-07,Canada,Admin,Product A,8845.0
+1234,2014-07-07,Canada,Utilities,Product A,6588.0
+1235,2014-07-07,Canada,Revenue,Product B,39120.0
+1236,2014-07-07,Canada,Labor,Product B,11796.0
+1237,2014-07-07,Canada,Raw Materials,Product B,12408.344151865049
+1238,2014-07-07,Canada,Admin,Product B,8170.0
+1239,2014-07-07,Canada,Utilities,Product B,4043.0
+1240,2014-07-07,Canada,Revenue,Overhead,40396.28010789935
+1241,2014-07-07,Canada,Labor,Overhead,11913.0
+1242,2014-07-07,Canada,Raw Materials,Overhead,12032.280107899349
+1243,2014-07-07,Canada,Admin,Overhead,7466.0
+1244,2014-07-07,Canada,Utilities,Overhead,5737.0
+1245,2014-07-07,Mexico,Revenue,Product A,97319.0
+1246,2014-07-07,Mexico,Labor,Product A,19041.0
+1247,2014-07-07,Mexico,Raw Materials,Product A,20533.9714353449
+1248,2014-07-07,Mexico,Admin,Product A,9069.0
+1249,2014-07-07,Mexico,Utilities,Product A,3780.0
+1250,2014-07-07,Mexico,Revenue,Product B,53578.98256797694
+1251,2014-07-07,Mexico,Labor,Product B,17287.0
+1252,2014-07-07,Mexico,Raw Materials,Product B,19000.982567976942
+1253,2014-07-07,Mexico,Admin,Product B,9675.0
+1254,2014-07-07,Mexico,Utilities,Product B,4933.0
+1255,2014-07-07,Mexico,Revenue,Overhead,33692.44808383458
+1256,2014-07-07,Mexico,Labor,Overhead,11380.0
+1257,2014-07-07,Mexico,Raw Materials,Overhead,9520.44808383458
+1258,2014-07-07,Mexico,Admin,Overhead,7682.0
+1259,2014-07-07,Mexico,Utilities,Overhead,3987.0
+1260,2014-07-14,United States,Revenue,Product A,75931.0
+1261,2014-07-14,United States,Labor,Product A,11218.0
+1262,2014-07-14,United States,Raw Materials,Product A,13262.59940285655
+1263,2014-07-14,United States,Admin,Product A,9135.0
+1264,2014-07-14,United States,Utilities,Product A,4560.0
+1265,2014-07-14,United States,Revenue,Product B,48039.3241447451
+1266,2014-07-14,United States,Labor,Product B,19610.0
+1267,2014-07-14,United States,Raw Materials,Product B,16370.324144745102
+1268,2014-07-14,United States,Admin,Product B,5974.0
+1269,2014-07-14,United States,Utilities,Product B,3037.0
+1270,2014-07-14,United States,Revenue,Overhead,46665.586858957424
+1271,2014-07-14,United States,Labor,Overhead,15370.0
+1272,2014-07-14,United States,Raw Materials,Overhead,16743.58685895742
+1273,2014-07-14,United States,Admin,Overhead,9549.0
+1274,2014-07-14,United States,Utilities,Overhead,3036.0
+1275,2014-07-14,Canada,Revenue,Product A,70420.0
+1276,2014-07-14,Canada,Labor,Product A,19903.0
+1277,2014-07-14,Canada,Raw Materials,Product A,21361.95966924678
+1278,2014-07-14,Canada,Admin,Product A,8111.0
+1279,2014-07-14,Canada,Utilities,Product A,4324.0
+1280,2014-07-14,Canada,Revenue,Product B,38845.348445732896
+1281,2014-07-14,Canada,Labor,Product B,10317.0
+1282,2014-07-14,Canada,Raw Materials,Product B,10698.348445732898
+1283,2014-07-14,Canada,Admin,Product B,8111.0
+1284,2014-07-14,Canada,Utilities,Product B,4889.0
+1285,2014-07-14,Canada,Revenue,Overhead,50174.49614933755
+1286,2014-07-14,Canada,Labor,Overhead,16183.0
+1287,2014-07-14,Canada,Raw Materials,Overhead,16608.496149337552
+1288,2014-07-14,Canada,Admin,Overhead,9311.0
+1289,2014-07-14,Canada,Utilities,Overhead,6218.0
+1290,2014-07-14,Mexico,Revenue,Product A,97456.0
+1291,2014-07-14,Mexico,Labor,Product A,12383.0
+1292,2014-07-14,Mexico,Raw Materials,Product A,13167.843627430111
+1293,2014-07-14,Mexico,Admin,Product A,6704.0
+1294,2014-07-14,Mexico,Utilities,Product A,5828.0
+1295,2014-07-14,Mexico,Revenue,Product B,33481.0
+1296,2014-07-14,Mexico,Labor,Product B,10362.0
+1297,2014-07-14,Mexico,Raw Materials,Product B,9278.922441736457
+1298,2014-07-14,Mexico,Admin,Product B,9451.0
+1299,2014-07-14,Mexico,Utilities,Product B,3190.0
+1300,2014-07-14,Mexico,Revenue,Overhead,39884.72847769715
+1301,2014-07-14,Mexico,Labor,Overhead,13738.0
+1302,2014-07-14,Mexico,Raw Materials,Overhead,15126.72847769715
+1303,2014-07-14,Mexico,Admin,Overhead,5556.0
+1304,2014-07-14,Mexico,Utilities,Overhead,3825.0
+1305,2014-07-21,United States,Revenue,Product A,97638.0
+1306,2014-07-21,United States,Labor,Product A,12808.0
+1307,2014-07-21,United States,Raw Materials,Product A,10396.239680442653
+1308,2014-07-21,United States,Admin,Product A,7719.0
+1309,2014-07-21,United States,Utilities,Product A,5410.0
+1310,2014-07-21,United States,Revenue,Product B,48084.385876268156
+1311,2014-07-21,United States,Labor,Product B,13741.0
+1312,2014-07-21,United States,Raw Materials,Product B,15987.385876268156
+1313,2014-07-21,United States,Admin,Product B,8329.0
+1314,2014-07-21,United States,Utilities,Product B,6789.0
+1315,2014-07-21,United States,Revenue,Overhead,53025.09761601141
+1316,2014-07-21,United States,Labor,Overhead,18780.0
+1317,2014-07-21,United States,Raw Materials,Overhead,18836.097616011404
+1318,2014-07-21,United States,Admin,Overhead,8117.0
+1319,2014-07-21,United States,Utilities,Overhead,4690.0
+1320,2014-07-21,Canada,Revenue,Product A,81966.0
+1321,2014-07-21,Canada,Labor,Product A,11136.0
+1322,2014-07-21,Canada,Raw Materials,Product A,11402.57050474845
+1323,2014-07-21,Canada,Admin,Product A,9543.0
+1324,2014-07-21,Canada,Utilities,Product A,5903.0
+1325,2014-07-21,Canada,Revenue,Product B,37783.61435662733
+1326,2014-07-21,Canada,Labor,Product B,11007.0
+1327,2014-07-21,Canada,Raw Materials,Product B,9276.614356627333
+1328,2014-07-21,Canada,Admin,Product B,9681.0
+1329,2014-07-21,Canada,Utilities,Product B,4256.0
+1330,2014-07-21,Canada,Revenue,Overhead,54590.64875671462
+1331,2014-07-21,Canada,Labor,Overhead,19439.0
+1332,2014-07-21,Canada,Raw Materials,Overhead,22083.648756714618
+1333,2014-07-21,Canada,Admin,Overhead,7382.0
+1334,2014-07-21,Canada,Utilities,Overhead,4245.0
+1335,2014-07-21,Mexico,Revenue,Product A,57059.0
+1336,2014-07-21,Mexico,Labor,Product A,15084.0
+1337,2014-07-21,Mexico,Raw Materials,Product A,16826.54580581532
+1338,2014-07-21,Mexico,Admin,Product A,6265.0
+1339,2014-07-21,Mexico,Utilities,Product A,6395.0
+1340,2014-07-21,Mexico,Revenue,Product B,36993.66663582191
+1341,2014-07-21,Mexico,Labor,Product B,11040.0
+1342,2014-07-21,Mexico,Raw Materials,Product B,12236.66663582191
+1343,2014-07-21,Mexico,Admin,Product B,7752.0
+1344,2014-07-21,Mexico,Utilities,Product B,3021.0
+1345,2014-07-21,Mexico,Revenue,Overhead,42982.48918892567
+1346,2014-07-21,Mexico,Labor,Overhead,14569.0
+1347,2014-07-21,Mexico,Raw Materials,Overhead,12090.48918892567
+1348,2014-07-21,Mexico,Admin,Overhead,9799.0
+1349,2014-07-21,Mexico,Utilities,Overhead,3686.0
+1350,2014-07-28,United States,Revenue,Product A,75338.0
+1351,2014-07-28,United States,Labor,Product A,18476.0
+1352,2014-07-28,United States,Raw Materials,Product A,18076.610272129077
+1353,2014-07-28,United States,Admin,Product A,7428.0
+1354,2014-07-28,United States,Utilities,Product A,5507.0
+1355,2014-07-28,United States,Revenue,Product B,45445.86442513061
+1356,2014-07-28,United States,Labor,Product B,15126.0
+1357,2014-07-28,United States,Raw Materials,Product B,12497.864425130609
+1358,2014-07-28,United States,Admin,Product B,8999.0
+1359,2014-07-28,United States,Utilities,Product B,5994.0
+1360,2014-07-28,United States,Revenue,Overhead,53612.782736967536
+1361,2014-07-28,United States,Labor,Overhead,19645.0
+1362,2014-07-28,United States,Raw Materials,Overhead,19397.782736967536
+1363,2014-07-28,United States,Admin,Overhead,5038.0
+1364,2014-07-28,United States,Utilities,Overhead,6342.0
+1365,2014-07-28,Canada,Revenue,Product A,67482.0
+1366,2014-07-28,Canada,Labor,Product A,19078.0
+1367,2014-07-28,Canada,Raw Materials,Product A,21565.16654797217
+1368,2014-07-28,Canada,Admin,Product A,8201.0
+1369,2014-07-28,Canada,Utilities,Product A,4710.0
+1370,2014-07-28,Canada,Revenue,Product B,45734.03800954733
+1371,2014-07-28,Canada,Labor,Product B,13155.0
+1372,2014-07-28,Canada,Raw Materials,Product B,13968.038009547332
+1373,2014-07-28,Canada,Admin,Product B,7896.0
+1374,2014-07-28,Canada,Utilities,Product B,6453.0
+1375,2014-07-28,Canada,Revenue,Overhead,37566.78069232063
+1376,2014-07-28,Canada,Labor,Overhead,10988.0
+1377,2014-07-28,Canada,Raw Materials,Overhead,12937.78069232063
+1378,2014-07-28,Canada,Admin,Overhead,9026.0
+1379,2014-07-28,Canada,Utilities,Overhead,3083.0
+1380,2014-07-28,Mexico,Revenue,Product A,55626.0
+1381,2014-07-28,Mexico,Labor,Product A,11682.0
+1382,2014-07-28,Mexico,Raw Materials,Product A,10626.952797534865
+1383,2014-07-28,Mexico,Admin,Product A,8963.0
+1384,2014-07-28,Mexico,Utilities,Product A,3933.0
+1385,2014-07-28,Mexico,Revenue,Product B,46431.0
+1386,2014-07-28,Mexico,Labor,Product B,13598.0
+1387,2014-07-28,Mexico,Raw Materials,Product B,14935.156675838822
+1388,2014-07-28,Mexico,Admin,Product B,8056.0
+1389,2014-07-28,Mexico,Utilities,Product B,3792.0
+1390,2014-07-28,Mexico,Revenue,Overhead,38153.50711004924
+1391,2014-07-28,Mexico,Labor,Overhead,10791.0
+1392,2014-07-28,Mexico,Raw Materials,Overhead,10223.507110049242
+1393,2014-07-28,Mexico,Admin,Overhead,7255.0
+1394,2014-07-28,Mexico,Utilities,Overhead,6610.0
+1395,2014-08-04,United States,Revenue,Product A,55776.0
+1396,2014-08-04,United States,Labor,Product A,11607.0
+1397,2014-08-04,United States,Raw Materials,Product A,10024.94611368297
+1398,2014-08-04,United States,Admin,Product A,5519.0
+1399,2014-08-04,United States,Utilities,Product A,3590.0
+1400,2014-08-04,United States,Revenue,Product B,49020.0
+1401,2014-08-04,United States,Labor,Product B,11050.0
+1402,2014-08-04,United States,Raw Materials,Product B,12573.941868276645
+1403,2014-08-04,United States,Admin,Product B,5959.0
+1404,2014-08-04,United States,Utilities,Product B,4963.0
+1405,2014-08-04,United States,Revenue,Overhead,54964.844673673186
+1406,2014-08-04,United States,Labor,Overhead,18884.0
+1407,2014-08-04,United States,Raw Materials,Overhead,21994.844673673182
+1408,2014-08-04,United States,Admin,Overhead,5526.0
+1409,2014-08-04,United States,Utilities,Overhead,6224.0
+1410,2014-08-04,Canada,Revenue,Product A,88565.0
+1411,2014-08-04,Canada,Labor,Product A,11875.0
+1412,2014-08-04,Canada,Raw Materials,Product A,11543.953000772448
+1413,2014-08-04,Canada,Admin,Product A,5116.0
+1414,2014-08-04,Canada,Utilities,Product A,5433.0
+1415,2014-08-04,Canada,Revenue,Product B,46052.11779173948
+1416,2014-08-04,Canada,Labor,Product B,15463.0
+1417,2014-08-04,Canada,Raw Materials,Product B,15050.117791739483
+1418,2014-08-04,Canada,Admin,Product B,7768.0
+1419,2014-08-04,Canada,Utilities,Product B,3071.0
+1420,2014-08-04,Canada,Revenue,Overhead,52382.852642289974
+1421,2014-08-04,Canada,Labor,Overhead,18465.0
+1422,2014-08-04,Canada,Raw Materials,Overhead,19797.852642289978
+1423,2014-08-04,Canada,Admin,Overhead,8566.0
+1424,2014-08-04,Canada,Utilities,Overhead,3606.0
+1425,2014-08-04,Mexico,Revenue,Product A,71804.0
+1426,2014-08-04,Mexico,Labor,Product A,18357.0
+1427,2014-08-04,Mexico,Raw Materials,Product A,16827.219982946674
+1428,2014-08-04,Mexico,Admin,Product A,7043.0
+1429,2014-08-04,Mexico,Utilities,Product A,3101.0
+1430,2014-08-04,Mexico,Revenue,Product B,40903.67826676057
+1431,2014-08-04,Mexico,Labor,Product B,13496.0
+1432,2014-08-04,Mexico,Raw Materials,Product B,11010.678266760571
+1433,2014-08-04,Mexico,Admin,Product B,6576.0
+1434,2014-08-04,Mexico,Utilities,Product B,5448.0
+1435,2014-08-04,Mexico,Revenue,Overhead,51367.94073918105
+1436,2014-08-04,Mexico,Labor,Overhead,16731.0
+1437,2014-08-04,Mexico,Raw Materials,Overhead,19987.94073918105
+1438,2014-08-04,Mexico,Admin,Overhead,5591.0
+1439,2014-08-04,Mexico,Utilities,Overhead,4333.0
+1440,2014-08-11,United States,Revenue,Product A,72431.0
+1441,2014-08-11,United States,Labor,Product A,12720.0
+1442,2014-08-11,United States,Raw Materials,Product A,13023.492501581419
+1443,2014-08-11,United States,Admin,Product A,5001.0
+1444,2014-08-11,United States,Utilities,Product A,5272.0
+1445,2014-08-11,United States,Revenue,Product B,44217.0
+1446,2014-08-11,United States,Labor,Product B,11949.0
+1447,2014-08-11,United States,Raw Materials,Product B,9717.897578779215
+1448,2014-08-11,United States,Admin,Product B,5917.0
+1449,2014-08-11,United States,Utilities,Product B,6174.0
+1450,2014-08-11,United States,Revenue,Overhead,50290.166621966826
+1451,2014-08-11,United States,Labor,Overhead,17014.0
+1452,2014-08-11,United States,Raw Materials,Overhead,14978.16662196683
+1453,2014-08-11,United States,Admin,Overhead,9238.0
+1454,2014-08-11,United States,Utilities,Overhead,6041.0
+1455,2014-08-11,Canada,Revenue,Product A,56090.0
+1456,2014-08-11,Canada,Labor,Product A,10105.0
+1457,2014-08-11,Canada,Raw Materials,Product A,8760.96459749116
+1458,2014-08-11,Canada,Admin,Product A,5634.0
+1459,2014-08-11,Canada,Utilities,Product A,4925.0
+1460,2014-08-11,Canada,Revenue,Product B,46015.0
+1461,2014-08-11,Canada,Labor,Product B,12056.0
+1462,2014-08-11,Canada,Raw Materials,Product B,14159.589936285569
+1463,2014-08-11,Canada,Admin,Product B,5552.0
+1464,2014-08-11,Canada,Utilities,Product B,6441.0
+1465,2014-08-11,Canada,Revenue,Overhead,52526.5652890669
+1466,2014-08-11,Canada,Labor,Overhead,18907.0
+1467,2014-08-11,Canada,Raw Materials,Overhead,21712.565289066897
+1468,2014-08-11,Canada,Admin,Overhead,6107.0
+1469,2014-08-11,Canada,Utilities,Overhead,4341.0
+1470,2014-08-11,Mexico,Revenue,Product A,83226.0
+1471,2014-08-11,Mexico,Labor,Product A,18442.0
+1472,2014-08-11,Mexico,Raw Materials,Product A,18326.910468064183
+1473,2014-08-11,Mexico,Admin,Product A,5899.0
+1474,2014-08-11,Mexico,Utilities,Product A,6461.0
+1475,2014-08-11,Mexico,Revenue,Product B,43678.0
+1476,2014-08-11,Mexico,Labor,Product B,10021.0
+1477,2014-08-11,Mexico,Raw Materials,Product B,9829.872611663153
+1478,2014-08-11,Mexico,Admin,Product B,9904.0
+1479,2014-08-11,Mexico,Utilities,Product B,6771.0
+1480,2014-08-11,Mexico,Revenue,Overhead,44057.88696658784
+1481,2014-08-11,Mexico,Labor,Overhead,14109.0
+1482,2014-08-11,Mexico,Raw Materials,Overhead,11747.886966587836
+1483,2014-08-11,Mexico,Admin,Overhead,7134.0
+1484,2014-08-11,Mexico,Utilities,Overhead,6595.0
+1485,2014-08-18,United States,Revenue,Product A,76745.0
+1486,2014-08-18,United States,Labor,Product A,11560.0
+1487,2014-08-18,United States,Raw Materials,Product A,13279.12721192234
+1488,2014-08-18,United States,Admin,Product A,5749.0
+1489,2014-08-18,United States,Utilities,Product A,6427.0
+1490,2014-08-18,United States,Revenue,Product B,44355.68111755159
+1491,2014-08-18,United States,Labor,Product B,14780.0
+1492,2014-08-18,United States,Raw Materials,Product B,12900.68111755159
+1493,2014-08-18,United States,Admin,Product B,9790.0
+1494,2014-08-18,United States,Utilities,Product B,5335.0
+1495,2014-08-18,United States,Revenue,Overhead,29818.278895990778
+1496,2014-08-18,United States,Labor,Overhead,10306.0
+1497,2014-08-18,United States,Raw Materials,Overhead,8911.27889599078
+1498,2014-08-18,United States,Admin,Overhead,5661.0
+1499,2014-08-18,United States,Utilities,Overhead,3548.0
+1500,2014-08-18,Canada,Revenue,Product A,98770.0
+1501,2014-08-18,Canada,Labor,Product A,18503.0
+1502,2014-08-18,Canada,Raw Materials,Product A,22017.03915168077
+1503,2014-08-18,Canada,Admin,Product A,5754.0
+1504,2014-08-18,Canada,Utilities,Product A,3034.0
+1505,2014-08-18,Canada,Revenue,Product B,47137.0555875232
+1506,2014-08-18,Canada,Labor,Product B,16236.0
+1507,2014-08-18,Canada,Raw Materials,Product B,15706.055587523204
+1508,2014-08-18,Canada,Admin,Product B,5902.0
+1509,2014-08-18,Canada,Utilities,Product B,4355.0
+1510,2014-08-18,Canada,Revenue,Overhead,51186.22931121441
+1511,2014-08-18,Canada,Labor,Overhead,17005.0
+1512,2014-08-18,Canada,Raw Materials,Overhead,20139.229311214414
+1513,2014-08-18,Canada,Admin,Overhead,5403.0
+1514,2014-08-18,Canada,Utilities,Overhead,5852.0
+1515,2014-08-18,Mexico,Revenue,Product A,83723.0
+1516,2014-08-18,Mexico,Labor,Product A,19579.0
+1517,2014-08-18,Mexico,Raw Materials,Product A,21675.7064017838
+1518,2014-08-18,Mexico,Admin,Product A,6712.0
+1519,2014-08-18,Mexico,Utilities,Product A,5994.0
+1520,2014-08-18,Mexico,Revenue,Product B,46203.888933223374
+1521,2014-08-18,Mexico,Labor,Product B,14703.0
+1522,2014-08-18,Mexico,Raw Materials,Product B,15220.888933223372
+1523,2014-08-18,Mexico,Admin,Product B,8811.0
+1524,2014-08-18,Mexico,Utilities,Product B,5625.0
+1525,2014-08-18,Mexico,Revenue,Overhead,60088.642802156945
+1526,2014-08-18,Mexico,Labor,Overhead,19633.0
+1527,2014-08-18,Mexico,Raw Materials,Overhead,21933.642802156945
+1528,2014-08-18,Mexico,Admin,Overhead,9850.0
+1529,2014-08-18,Mexico,Utilities,Overhead,4394.0
+1530,2014-08-25,United States,Revenue,Product A,98364.0
+1531,2014-08-25,United States,Labor,Product A,19461.0
+1532,2014-08-25,United States,Raw Materials,Product A,18364.575275333813
+1533,2014-08-25,United States,Admin,Product A,7958.0
+1534,2014-08-25,United States,Utilities,Product A,6808.0
+1535,2014-08-25,United States,Revenue,Product B,42232.22827932733
+1536,2014-08-25,United States,Labor,Product B,13591.0
+1537,2014-08-25,United States,Raw Materials,Product B,13076.228279327335
+1538,2014-08-25,United States,Admin,Product B,8369.0
+1539,2014-08-25,United States,Utilities,Product B,3939.0
+1540,2014-08-25,United States,Revenue,Overhead,40229.5733459153
+1541,2014-08-25,United States,Labor,Overhead,10525.0
+1542,2014-08-25,United States,Raw Materials,Overhead,12509.573345915302
+1543,2014-08-25,United States,Admin,Overhead,9005.0
+1544,2014-08-25,United States,Utilities,Overhead,6052.0
+1545,2014-08-25,Canada,Revenue,Product A,80523.0
+1546,2014-08-25,Canada,Labor,Product A,14648.0
+1547,2014-08-25,Canada,Raw Materials,Product A,13166.976311143095
+1548,2014-08-25,Canada,Admin,Product A,5013.0
+1549,2014-08-25,Canada,Utilities,Product A,3503.0
+1550,2014-08-25,Canada,Revenue,Product B,44821.66692379613
+1551,2014-08-25,Canada,Labor,Product B,12278.0
+1552,2014-08-25,Canada,Raw Materials,Product B,11586.66692379613
+1553,2014-08-25,Canada,Admin,Product B,9933.0
+1554,2014-08-25,Canada,Utilities,Product B,6216.0
+1555,2014-08-25,Canada,Revenue,Overhead,52622.37320415274
+1556,2014-08-25,Canada,Labor,Overhead,18219.0
+1557,2014-08-25,Canada,Raw Materials,Overhead,16456.373204152736
+1558,2014-08-25,Canada,Admin,Overhead,9555.0
+1559,2014-08-25,Canada,Utilities,Overhead,6747.0
+1560,2014-08-25,Mexico,Revenue,Product A,94738.0
+1561,2014-08-25,Mexico,Labor,Product A,17062.0
+1562,2014-08-25,Mexico,Raw Materials,Product A,16746.62286203506
+1563,2014-08-25,Mexico,Admin,Product A,7639.0
+1564,2014-08-25,Mexico,Utilities,Product A,4993.0
+1565,2014-08-25,Mexico,Revenue,Product B,46204.81517848222
+1566,2014-08-25,Mexico,Labor,Product B,15724.0
+1567,2014-08-25,Mexico,Raw Materials,Product B,14698.815178482218
+1568,2014-08-25,Mexico,Admin,Product B,6280.0
+1569,2014-08-25,Mexico,Utilities,Product B,5180.0
+1570,2014-08-25,Mexico,Revenue,Overhead,47308.80782482842
+1571,2014-08-25,Mexico,Labor,Overhead,15895.0
+1572,2014-08-25,Mexico,Raw Materials,Overhead,16639.807824828422
+1573,2014-08-25,Mexico,Admin,Overhead,5575.0
+1574,2014-08-25,Mexico,Utilities,Overhead,5933.0
+1575,2014-09-01,United States,Revenue,Product A,85946.0
+1576,2014-09-01,United States,Labor,Product A,16099.0
+1577,2014-09-01,United States,Raw Materials,Product A,15322.11757566444
+1578,2014-09-01,United States,Admin,Product A,7212.0
+1579,2014-09-01,United States,Utilities,Product A,5352.0
+1580,2014-09-01,United States,Revenue,Product B,42836.66869636575
+1581,2014-09-01,United States,Labor,Product B,13568.0
+1582,2014-09-01,United States,Raw Materials,Product B,14682.66869636575
+1583,2014-09-01,United States,Admin,Product B,6390.0
+1584,2014-09-01,United States,Utilities,Product B,4742.0
+1585,2014-09-01,United States,Revenue,Overhead,39006.86257187538
+1586,2014-09-01,United States,Labor,Overhead,11925.0
+1587,2014-09-01,United States,Raw Materials,Overhead,10521.862571875385
+1588,2014-09-01,United States,Admin,Overhead,7381.0
+1589,2014-09-01,United States,Utilities,Overhead,6713.0
+1590,2014-09-01,Canada,Revenue,Product A,75619.0
+1591,2014-09-01,Canada,Labor,Product A,10968.0
+1592,2014-09-01,Canada,Raw Materials,Product A,11104.746953246127
+1593,2014-09-01,Canada,Admin,Product A,6058.0
+1594,2014-09-01,Canada,Utilities,Product A,3197.0
+1595,2014-09-01,Canada,Revenue,Product B,43437.846944534846
+1596,2014-09-01,Canada,Labor,Product B,15178.0
+1597,2014-09-01,Canada,Raw Materials,Product B,14061.846944534847
+1598,2014-09-01,Canada,Admin,Product B,6035.0
+1599,2014-09-01,Canada,Utilities,Product B,3489.0
+1600,2014-09-01,Canada,Revenue,Overhead,51246.63939227241
+1601,2014-09-01,Canada,Labor,Overhead,18467.0
+1602,2014-09-01,Canada,Raw Materials,Overhead,22061.63939227241
+1603,2014-09-01,Canada,Admin,Overhead,5125.0
+1604,2014-09-01,Canada,Utilities,Overhead,3216.0
+1605,2014-09-01,Mexico,Revenue,Product A,65398.0
+1606,2014-09-01,Mexico,Labor,Product A,17473.0
+1607,2014-09-01,Mexico,Raw Materials,Product A,20779.574780813266
+1608,2014-09-01,Mexico,Admin,Product A,8249.0
+1609,2014-09-01,Mexico,Utilities,Product A,3918.0
+1610,2014-09-01,Mexico,Revenue,Product B,53113.94023135949
+1611,2014-09-01,Mexico,Labor,Product B,17595.0
+1612,2014-09-01,Mexico,Raw Materials,Product B,17821.940231359495
+1613,2014-09-01,Mexico,Admin,Product B,9403.0
+1614,2014-09-01,Mexico,Utilities,Product B,4359.0
+1615,2014-09-01,Mexico,Revenue,Overhead,37512.59358738383
+1616,2014-09-01,Mexico,Labor,Overhead,11969.0
+1617,2014-09-01,Mexico,Raw Materials,Overhead,10541.593587383828
+1618,2014-09-01,Mexico,Admin,Overhead,7033.0
+1619,2014-09-01,Mexico,Utilities,Overhead,4364.0
+1620,2014-09-08,United States,Revenue,Product A,73196.0
+1621,2014-09-08,United States,Labor,Product A,18320.0
+1622,2014-09-08,United States,Raw Materials,Product A,20011.51839185378
+1623,2014-09-08,United States,Admin,Product A,9612.0
+1624,2014-09-08,United States,Utilities,Product A,4518.0
+1625,2014-09-08,United States,Revenue,Product B,39322.810165211435
+1626,2014-09-08,United States,Labor,Product B,11198.0
+1627,2014-09-08,United States,Raw Materials,Product B,12060.810165211435
+1628,2014-09-08,United States,Admin,Product B,7474.0
+1629,2014-09-08,United States,Utilities,Product B,4993.0
+1630,2014-09-08,United States,Revenue,Overhead,43084.24100015862
+1631,2014-09-08,United States,Labor,Overhead,16257.0
+1632,2014-09-08,United States,Raw Materials,Overhead,14593.241000158616
+1633,2014-09-08,United States,Admin,Overhead,5302.0
+1634,2014-09-08,United States,Utilities,Overhead,5791.0
+1635,2014-09-08,Canada,Revenue,Product A,80659.0
+1636,2014-09-08,Canada,Labor,Product A,10986.0
+1637,2014-09-08,Canada,Raw Materials,Product A,12879.760947535862
+1638,2014-09-08,Canada,Admin,Product A,8124.0
+1639,2014-09-08,Canada,Utilities,Product A,4327.0
+1640,2014-09-08,Canada,Revenue,Product B,51235.37845837201
+1641,2014-09-08,Canada,Labor,Product B,18125.0
+1642,2014-09-08,Canada,Raw Materials,Product B,19269.37845837201
+1643,2014-09-08,Canada,Admin,Product B,5574.0
+1644,2014-09-08,Canada,Utilities,Product B,4608.0
+1645,2014-09-08,Canada,Revenue,Overhead,55182.03106319072
+1646,2014-09-08,Canada,Labor,Overhead,17848.0
+1647,2014-09-08,Canada,Raw Materials,Overhead,21370.03106319072
+1648,2014-09-08,Canada,Admin,Overhead,8828.0
+1649,2014-09-08,Canada,Utilities,Overhead,5636.0
+1650,2014-09-08,Mexico,Revenue,Product A,75923.0
+1651,2014-09-08,Mexico,Labor,Product A,13230.0
+1652,2014-09-08,Mexico,Raw Materials,Product A,14491.873215358019
+1653,2014-09-08,Mexico,Admin,Product A,8173.0
+1654,2014-09-08,Mexico,Utilities,Product A,3493.0
+1655,2014-09-08,Mexico,Revenue,Product B,38305.12481174814
+1656,2014-09-08,Mexico,Labor,Product B,11667.0
+1657,2014-09-08,Mexico,Raw Materials,Product B,12449.124811748137
+1658,2014-09-08,Mexico,Admin,Product B,6000.0
+1659,2014-09-08,Mexico,Utilities,Product B,6350.0
+1660,2014-09-08,Mexico,Revenue,Overhead,53917.84228461742
+1661,2014-09-08,Mexico,Labor,Overhead,19042.0
+1662,2014-09-08,Mexico,Raw Materials,Overhead,21851.842284617418
+1663,2014-09-08,Mexico,Admin,Overhead,5821.0
+1664,2014-09-08,Mexico,Utilities,Overhead,3454.0
+1665,2014-09-15,United States,Revenue,Product A,73616.0
+1666,2014-09-15,United States,Labor,Product A,19816.0
+1667,2014-09-15,United States,Raw Materials,Product A,18455.680964708306
+1668,2014-09-15,United States,Admin,Product A,9806.0
+1669,2014-09-15,United States,Utilities,Product A,5190.0
+1670,2014-09-15,United States,Revenue,Product B,55055.02388339212
+1671,2014-09-15,United States,Labor,Product B,19108.0
+1672,2014-09-15,United States,Raw Materials,Product B,18194.023883392118
+1673,2014-09-15,United States,Admin,Product B,9400.0
+1674,2014-09-15,United States,Utilities,Product B,3735.0
+1675,2014-09-15,United States,Revenue,Overhead,46390.41530764238
+1676,2014-09-15,United States,Labor,Overhead,16059.0
+1677,2014-09-15,United States,Raw Materials,Overhead,12941.41530764238
+1678,2014-09-15,United States,Admin,Overhead,8015.0
+1679,2014-09-15,United States,Utilities,Overhead,6693.0
+1680,2014-09-15,Canada,Revenue,Product A,85757.0
+1681,2014-09-15,Canada,Labor,Product A,17117.0
+1682,2014-09-15,Canada,Raw Materials,Product A,17935.126501058625
+1683,2014-09-15,Canada,Admin,Product A,8865.0
+1684,2014-09-15,Canada,Utilities,Product A,5375.0
+1685,2014-09-15,Canada,Revenue,Product B,42848.245507734166
+1686,2014-09-15,Canada,Labor,Product B,12863.0
+1687,2014-09-15,Canada,Raw Materials,Product B,14649.245507734167
+1688,2014-09-15,Canada,Admin,Product B,9760.0
+1689,2014-09-15,Canada,Utilities,Product B,3011.0
+1690,2014-09-15,Canada,Revenue,Overhead,46066.73802169581
+1691,2014-09-15,Canada,Labor,Overhead,15252.0
+1692,2014-09-15,Canada,Raw Materials,Overhead,14634.73802169581
+1693,2014-09-15,Canada,Admin,Overhead,8371.0
+1694,2014-09-15,Canada,Utilities,Overhead,4763.0
+1695,2014-09-15,Mexico,Revenue,Product A,66173.0
+1696,2014-09-15,Mexico,Labor,Product A,18234.0
+1697,2014-09-15,Mexico,Raw Materials,Product A,20165.952556383665
+1698,2014-09-15,Mexico,Admin,Product A,9986.0
+1699,2014-09-15,Mexico,Utilities,Product A,5474.0
+1700,2014-09-15,Mexico,Revenue,Product B,58810.4656270449
+1701,2014-09-15,Mexico,Labor,Product B,19196.0
+1702,2014-09-15,Mexico,Raw Materials,Product B,21671.465627044898
+1703,2014-09-15,Mexico,Admin,Product B,6838.0
+1704,2014-09-15,Mexico,Utilities,Product B,6188.0
+1705,2014-09-15,Mexico,Revenue,Overhead,47965.15313511908
+1706,2014-09-15,Mexico,Labor,Overhead,15243.0
+1707,2014-09-15,Mexico,Raw Materials,Overhead,18015.15313511908
+1708,2014-09-15,Mexico,Admin,Overhead,8854.0
+1709,2014-09-15,Mexico,Utilities,Overhead,3323.0
+1710,2014-09-22,United States,Revenue,Product A,96881.0
+1711,2014-09-22,United States,Labor,Product A,10140.0
+1712,2014-09-22,United States,Raw Materials,Product A,9538.181619443958
+1713,2014-09-22,United States,Admin,Product A,5963.0
+1714,2014-09-22,United States,Utilities,Product A,6055.0
+1715,2014-09-22,United States,Revenue,Product B,46673.55222080846
+1716,2014-09-22,United States,Labor,Product B,18564.0
+1717,2014-09-22,United States,Raw Materials,Product B,16966.552220808455
+1718,2014-09-22,United States,Admin,Product B,5105.0
+1719,2014-09-22,United States,Utilities,Product B,4443.0
+1720,2014-09-22,United States,Revenue,Overhead,55407.326469927604
+1721,2014-09-22,United States,Labor,Overhead,19873.0
+1722,2014-09-22,United States,Raw Materials,Overhead,19077.3264699276
+1723,2014-09-22,United States,Admin,Overhead,7137.0
+1724,2014-09-22,United States,Utilities,Overhead,6416.0
+1725,2014-09-22,Canada,Revenue,Product A,98478.0
+1726,2014-09-22,Canada,Labor,Product A,14445.0
+1727,2014-09-22,Canada,Raw Materials,Product A,12602.680941611383
+1728,2014-09-22,Canada,Admin,Product A,8654.0
+1729,2014-09-22,Canada,Utilities,Product A,6006.0
+1730,2014-09-22,Canada,Revenue,Product B,36590.48812137965
+1731,2014-09-22,Canada,Labor,Product B,12359.0
+1732,2014-09-22,Canada,Raw Materials,Product B,13809.488121379649
+1733,2014-09-22,Canada,Admin,Product B,5035.0
+1734,2014-09-22,Canada,Utilities,Product B,4107.0
+1735,2014-09-22,Canada,Revenue,Overhead,48601.31811088459
+1736,2014-09-22,Canada,Labor,Overhead,19667.0
+1737,2014-09-22,Canada,Raw Materials,Overhead,16418.318110884593
+1738,2014-09-22,Canada,Admin,Overhead,6708.0
+1739,2014-09-22,Canada,Utilities,Overhead,4385.0
+1740,2014-09-22,Mexico,Revenue,Product A,73669.0
+1741,2014-09-22,Mexico,Labor,Product A,16284.0
+1742,2014-09-22,Mexico,Raw Materials,Product A,16945.858751705142
+1743,2014-09-22,Mexico,Admin,Product A,6243.0
+1744,2014-09-22,Mexico,Utilities,Product A,6976.0
+1745,2014-09-22,Mexico,Revenue,Product B,49655.0
+1746,2014-09-22,Mexico,Labor,Product B,13097.0
+1747,2014-09-22,Mexico,Raw Materials,Product B,11588.460507311218
+1748,2014-09-22,Mexico,Admin,Product B,7425.0
+1749,2014-09-22,Mexico,Utilities,Product B,4656.0
+1750,2014-09-22,Mexico,Revenue,Overhead,59127.100084898644
+1751,2014-09-22,Mexico,Labor,Overhead,19852.0
+1752,2014-09-22,Mexico,Raw Materials,Overhead,23075.100084898644
+1753,2014-09-22,Mexico,Admin,Overhead,6072.0
+1754,2014-09-22,Mexico,Utilities,Overhead,6225.0
+1755,2014-09-29,United States,Revenue,Product A,89575.0
+1756,2014-09-29,United States,Labor,Product A,11316.0
+1757,2014-09-29,United States,Raw Materials,Product A,10420.046655505017
+1758,2014-09-29,United States,Admin,Product A,8273.0
+1759,2014-09-29,United States,Utilities,Product A,5904.0
+1760,2014-09-29,United States,Revenue,Product B,38051.09059664325
+1761,2014-09-29,United States,Labor,Product B,10145.0
+1762,2014-09-29,United States,Raw Materials,Product B,11227.090596643247
+1763,2014-09-29,United States,Admin,Product B,9676.0
+1764,2014-09-29,United States,Utilities,Product B,5734.0
+1765,2014-09-29,United States,Revenue,Overhead,53916.76607200646
+1766,2014-09-29,United States,Labor,Overhead,19776.0
+1767,2014-09-29,United States,Raw Materials,Overhead,21649.76607200646
+1768,2014-09-29,United States,Admin,Overhead,5630.0
+1769,2014-09-29,United States,Utilities,Overhead,5708.0
+1770,2014-09-29,Canada,Revenue,Product A,66014.0
+1771,2014-09-29,Canada,Labor,Product A,18853.0
+1772,2014-09-29,Canada,Raw Materials,Product A,15260.663305092634
+1773,2014-09-29,Canada,Admin,Product A,6546.0
+1774,2014-09-29,Canada,Utilities,Product A,3649.0
+1775,2014-09-29,Canada,Revenue,Product B,51256.903552619864
+1776,2014-09-29,Canada,Labor,Product B,19160.0
+1777,2014-09-29,Canada,Raw Materials,Product B,18323.903552619864
+1778,2014-09-29,Canada,Admin,Product B,5769.0
+1779,2014-09-29,Canada,Utilities,Product B,4343.0
+1780,2014-09-29,Canada,Revenue,Overhead,48418.75420280614
+1781,2014-09-29,Canada,Labor,Overhead,14358.0
+1782,2014-09-29,Canada,Raw Materials,Overhead,15478.75420280614
+1783,2014-09-29,Canada,Admin,Overhead,9008.0
+1784,2014-09-29,Canada,Utilities,Overhead,6824.0
+1785,2014-09-29,Mexico,Revenue,Product A,79371.0
+1786,2014-09-29,Mexico,Labor,Product A,16602.0
+1787,2014-09-29,Mexico,Raw Materials,Product A,19864.332802977493
+1788,2014-09-29,Mexico,Admin,Product A,6241.0
+1789,2014-09-29,Mexico,Utilities,Product A,4125.0
+1790,2014-09-29,Mexico,Revenue,Product B,58733.58948136958
+1791,2014-09-29,Mexico,Labor,Product B,19382.0
+1792,2014-09-29,Mexico,Raw Materials,Product B,21495.589481369574
+1793,2014-09-29,Mexico,Admin,Product B,9448.0
+1794,2014-09-29,Mexico,Utilities,Product B,6747.0
+1795,2014-09-29,Mexico,Revenue,Overhead,35917.39934945101
+1796,2014-09-29,Mexico,Labor,Overhead,10072.0
+1797,2014-09-29,Mexico,Raw Materials,Overhead,9360.39934945101
+1798,2014-09-29,Mexico,Admin,Overhead,7472.0
+1799,2014-09-29,Mexico,Utilities,Overhead,6046.0
+1800,2014-10-06,United States,Revenue,Product A,53713.0
+1801,2014-10-06,United States,Labor,Product A,10707.0
+1802,2014-10-06,United States,Raw Materials,Product A,10460.35327595941
+1803,2014-10-06,United States,Admin,Product A,7475.0
+1804,2014-10-06,United States,Utilities,Product A,6610.0
+1805,2014-10-06,United States,Revenue,Product B,39471.14793707492
+1806,2014-10-06,United States,Labor,Product B,14255.0
+1807,2014-10-06,United States,Raw Materials,Product B,14483.14793707492
+1808,2014-10-06,United States,Admin,Product B,6585.0
+1809,2014-10-06,United States,Utilities,Product B,3066.0
+1810,2014-10-06,United States,Revenue,Overhead,51356.67861890454
+1811,2014-10-06,United States,Labor,Overhead,17979.0
+1812,2014-10-06,United States,Raw Materials,Overhead,16715.678618904534
+1813,2014-10-06,United States,Admin,Overhead,7774.0
+1814,2014-10-06,United States,Utilities,Overhead,4195.0
+1815,2014-10-06,Canada,Revenue,Product A,59686.0
+1816,2014-10-06,Canada,Labor,Product A,12817.0
+1817,2014-10-06,Canada,Raw Materials,Product A,12114.342692900032
+1818,2014-10-06,Canada,Admin,Product A,5661.0
+1819,2014-10-06,Canada,Utilities,Product A,6883.0
+1820,2014-10-06,Canada,Revenue,Product B,42352.11486085049
+1821,2014-10-06,Canada,Labor,Product B,13374.0
+1822,2014-10-06,Canada,Raw Materials,Product B,11774.11486085049
+1823,2014-10-06,Canada,Admin,Product B,7493.0
+1824,2014-10-06,Canada,Utilities,Product B,5717.0
+1825,2014-10-06,Canada,Revenue,Overhead,40228.578444622544
+1826,2014-10-06,Canada,Labor,Overhead,10632.0
+1827,2014-10-06,Canada,Raw Materials,Overhead,12000.578444622543
+1828,2014-10-06,Canada,Admin,Overhead,6931.0
+1829,2014-10-06,Canada,Utilities,Overhead,6719.0
+1830,2014-10-06,Mexico,Revenue,Product A,65901.0
+1831,2014-10-06,Mexico,Labor,Product A,17123.0
+1832,2014-10-06,Mexico,Raw Materials,Product A,16950.992913782793
+1833,2014-10-06,Mexico,Admin,Product A,9443.0
+1834,2014-10-06,Mexico,Utilities,Product A,5674.0
+1835,2014-10-06,Mexico,Revenue,Product B,57857.016079937166
+1836,2014-10-06,Mexico,Labor,Product B,19732.0
+1837,2014-10-06,Mexico,Raw Materials,Product B,21604.016079937166
+1838,2014-10-06,Mexico,Admin,Product B,7368.0
+1839,2014-10-06,Mexico,Utilities,Product B,6704.0
+1840,2014-10-06,Mexico,Revenue,Overhead,37271.22111849718
+1841,2014-10-06,Mexico,Labor,Overhead,10285.0
+1842,2014-10-06,Mexico,Raw Materials,Overhead,10371.22111849718
+1843,2014-10-06,Mexico,Admin,Overhead,9551.0
+1844,2014-10-06,Mexico,Utilities,Overhead,4766.0
+1845,2014-10-13,United States,Revenue,Product A,61023.0
+1846,2014-10-13,United States,Labor,Product A,14895.0
+1847,2014-10-13,United States,Raw Materials,Product A,12676.91693549873
+1848,2014-10-13,United States,Admin,Product A,6523.0
+1849,2014-10-13,United States,Utilities,Product A,5785.0
+1850,2014-10-13,United States,Revenue,Product B,42641.0
+1851,2014-10-13,United States,Labor,Product B,13725.0
+1852,2014-10-13,United States,Raw Materials,Product B,11625.893166319838
+1853,2014-10-13,United States,Admin,Product B,6601.0
+1854,2014-10-13,United States,Utilities,Product B,5408.0
+1855,2014-10-13,United States,Revenue,Overhead,38961.38683488412
+1856,2014-10-13,United States,Labor,Overhead,10340.0
+1857,2014-10-13,United States,Raw Materials,Overhead,9704.386834884119
+1858,2014-10-13,United States,Admin,Overhead,9930.0
+1859,2014-10-13,United States,Utilities,Overhead,4203.0
+1860,2014-10-13,Canada,Revenue,Product A,86035.0
+1861,2014-10-13,Canada,Labor,Product A,19917.0
+1862,2014-10-13,Canada,Raw Materials,Product A,19496.373199693924
+1863,2014-10-13,Canada,Admin,Product A,5261.0
+1864,2014-10-13,Canada,Utilities,Product A,4442.0
+1865,2014-10-13,Canada,Revenue,Product B,49234.41195663989
+1866,2014-10-13,Canada,Labor,Product B,18597.0
+1867,2014-10-13,Canada,Raw Materials,Product B,18574.411956639888
+1868,2014-10-13,Canada,Admin,Product B,5243.0
+1869,2014-10-13,Canada,Utilities,Product B,3489.0
+1870,2014-10-13,Canada,Revenue,Overhead,42667.76267719269
+1871,2014-10-13,Canada,Labor,Overhead,14107.0
+1872,2014-10-13,Canada,Raw Materials,Overhead,16536.76267719269
+1873,2014-10-13,Canada,Admin,Overhead,5593.0
+1874,2014-10-13,Canada,Utilities,Overhead,4452.0
+1875,2014-10-13,Mexico,Revenue,Product A,95033.0
+1876,2014-10-13,Mexico,Labor,Product A,11826.0
+1877,2014-10-13,Mexico,Raw Materials,Product A,12650.526725837362
+1878,2014-10-13,Mexico,Admin,Product A,5133.0
+1879,2014-10-13,Mexico,Utilities,Product A,6138.0
+1880,2014-10-13,Mexico,Revenue,Product B,50843.081950010324
+1881,2014-10-13,Mexico,Labor,Product B,17693.0
+1882,2014-10-13,Mexico,Raw Materials,Product B,14727.081950010324
+1883,2014-10-13,Mexico,Admin,Product B,9225.0
+1884,2014-10-13,Mexico,Utilities,Product B,5978.0
+1885,2014-10-13,Mexico,Revenue,Overhead,53226.11040781572
+1886,2014-10-13,Mexico,Labor,Overhead,17373.0
+1887,2014-10-13,Mexico,Raw Materials,Overhead,20678.110407815722
+1888,2014-10-13,Mexico,Admin,Overhead,6985.0
+1889,2014-10-13,Mexico,Utilities,Overhead,3792.0
+1890,2014-10-20,United States,Revenue,Product A,81552.0
+1891,2014-10-20,United States,Labor,Product A,14259.0
+1892,2014-10-20,United States,Raw Materials,Product A,14865.6973186702
+1893,2014-10-20,United States,Admin,Product A,9917.0
+1894,2014-10-20,United States,Utilities,Product A,3237.0
+1895,2014-10-20,United States,Revenue,Product B,43333.09909519483
+1896,2014-10-20,United States,Labor,Product B,12530.0
+1897,2014-10-20,United States,Raw Materials,Product B,12022.099095194833
+1898,2014-10-20,United States,Admin,Product B,7529.0
+1899,2014-10-20,United States,Utilities,Product B,6463.0
+1900,2014-10-20,United States,Revenue,Overhead,43505.05022467726
+1901,2014-10-20,United States,Labor,Overhead,12964.0
+1902,2014-10-20,United States,Raw Materials,Overhead,10505.05022467726
+1903,2014-10-20,United States,Admin,Overhead,9223.0
+1904,2014-10-20,United States,Utilities,Overhead,6679.0
+1905,2014-10-20,Canada,Revenue,Product A,85262.0
+1906,2014-10-20,Canada,Labor,Product A,18734.0
+1907,2014-10-20,Canada,Raw Materials,Product A,18780.024663379656
+1908,2014-10-20,Canada,Admin,Product A,6884.0
+1909,2014-10-20,Canada,Utilities,Product A,3042.0
+1910,2014-10-20,Canada,Revenue,Product B,46208.614139192505
+1911,2014-10-20,Canada,Labor,Product B,14349.0
+1912,2014-10-20,Canada,Raw Materials,Product B,14937.614139192508
+1913,2014-10-20,Canada,Admin,Product B,6953.0
+1914,2014-10-20,Canada,Utilities,Product B,5825.0
+1915,2014-10-20,Canada,Revenue,Overhead,44901.001864117716
+1916,2014-10-20,Canada,Labor,Overhead,16488.0
+1917,2014-10-20,Canada,Raw Materials,Overhead,13574.001864117716
+1918,2014-10-20,Canada,Admin,Overhead,6950.0
+1919,2014-10-20,Canada,Utilities,Overhead,4079.0
+1920,2014-10-20,Mexico,Revenue,Product A,94936.0
+1921,2014-10-20,Mexico,Labor,Product A,18648.0
+1922,2014-10-20,Mexico,Raw Materials,Product A,18128.371074474544
+1923,2014-10-20,Mexico,Admin,Product A,6179.0
+1924,2014-10-20,Mexico,Utilities,Product A,3189.0
+1925,2014-10-20,Mexico,Revenue,Product B,50287.48643274988
+1926,2014-10-20,Mexico,Labor,Product B,19074.0
+1927,2014-10-20,Mexico,Raw Materials,Product B,16615.486432749884
+1928,2014-10-20,Mexico,Admin,Product B,5608.0
+1929,2014-10-20,Mexico,Utilities,Product B,6331.0
+1930,2014-10-20,Mexico,Revenue,Overhead,34633.950164481954
+1931,2014-10-20,Mexico,Labor,Overhead,11638.0
+1932,2014-10-20,Mexico,Raw Materials,Overhead,10375.950164481956
+1933,2014-10-20,Mexico,Admin,Overhead,6403.0
+1934,2014-10-20,Mexico,Utilities,Overhead,3819.0
+1935,2014-10-27,United States,Revenue,Product A,62411.0
+1936,2014-10-27,United States,Labor,Product A,13292.0
+1937,2014-10-27,United States,Raw Materials,Product A,13950.729382395384
+1938,2014-10-27,United States,Admin,Product A,6508.0
+1939,2014-10-27,United States,Utilities,Product A,6699.0
+1940,2014-10-27,United States,Revenue,Product B,50181.060669774815
+1941,2014-10-27,United States,Labor,Product B,17870.0
+1942,2014-10-27,United States,Raw Materials,Product B,17511.060669774815
+1943,2014-10-27,United States,Admin,Product B,7139.0
+1944,2014-10-27,United States,Utilities,Product B,6029.0
+1945,2014-10-27,United States,Revenue,Overhead,36361.347855706554
+1946,2014-10-27,United States,Labor,Overhead,11549.0
+1947,2014-10-27,United States,Raw Materials,Overhead,10056.34785570655
+1948,2014-10-27,United States,Admin,Overhead,8716.0
+1949,2014-10-27,United States,Utilities,Overhead,3509.0
+1950,2014-10-27,Canada,Revenue,Product A,56548.0
+1951,2014-10-27,Canada,Labor,Product A,14481.0
+1952,2014-10-27,Canada,Raw Materials,Product A,12359.84476202531
+1953,2014-10-27,Canada,Admin,Product A,7708.0
+1954,2014-10-27,Canada,Utilities,Product A,5697.0
+1955,2014-10-27,Canada,Revenue,Product B,47845.73639585923
+1956,2014-10-27,Canada,Labor,Product B,17638.0
+1957,2014-10-27,Canada,Raw Materials,Product B,15077.736395859236
+1958,2014-10-27,Canada,Admin,Product B,8084.0
+1959,2014-10-27,Canada,Utilities,Product B,5260.0
+1960,2014-10-27,Canada,Revenue,Overhead,54748.345956478355
+1961,2014-10-27,Canada,Labor,Overhead,18433.0
+1962,2014-10-27,Canada,Raw Materials,Overhead,19386.34595647836
+1963,2014-10-27,Canada,Admin,Overhead,9268.0
+1964,2014-10-27,Canada,Utilities,Overhead,3671.0
+1965,2014-10-27,Mexico,Revenue,Product A,54795.0
+1966,2014-10-27,Mexico,Labor,Product A,10163.0
+1967,2014-10-27,Mexico,Raw Materials,Product A,9640.250109211353
+1968,2014-10-27,Mexico,Admin,Product A,7355.0
+1969,2014-10-27,Mexico,Utilities,Product A,4791.0
+1970,2014-10-27,Mexico,Revenue,Product B,49730.65397505171
+1971,2014-10-27,Mexico,Labor,Product B,17961.0
+1972,2014-10-27,Mexico,Raw Materials,Product B,15282.653975051713
+1973,2014-10-27,Mexico,Admin,Product B,8835.0
+1974,2014-10-27,Mexico,Utilities,Product B,3593.0
+1975,2014-10-27,Mexico,Revenue,Overhead,47013.10739415528
+1976,2014-10-27,Mexico,Labor,Overhead,14839.0
+1977,2014-10-27,Mexico,Raw Materials,Overhead,16683.107394155282
+1978,2014-10-27,Mexico,Admin,Overhead,8493.0
+1979,2014-10-27,Mexico,Utilities,Overhead,5601.0
+1980,2014-11-03,United States,Revenue,Product A,80911.0
+1981,2014-11-03,United States,Labor,Product A,16164.0
+1982,2014-11-03,United States,Raw Materials,Product A,19113.75019585984
+1983,2014-11-03,United States,Admin,Product A,5392.0
+1984,2014-11-03,United States,Utilities,Product A,3424.0
+1985,2014-11-03,United States,Revenue,Product B,48898.460675098526
+1986,2014-11-03,United States,Labor,Product B,16272.0
+1987,2014-11-03,United States,Raw Materials,Product B,18282.46067509853
+1988,2014-11-03,United States,Admin,Product B,6120.0
+1989,2014-11-03,United States,Utilities,Product B,6081.0
+1990,2014-11-03,United States,Revenue,Overhead,44867.725156169014
+1991,2014-11-03,United States,Labor,Overhead,18433.0
+1992,2014-11-03,United States,Raw Materials,Overhead,15029.725156169015
+1993,2014-11-03,United States,Admin,Overhead,5714.0
+1994,2014-11-03,United States,Utilities,Overhead,3758.0
+1995,2014-11-03,Canada,Revenue,Product A,73472.0
+1996,2014-11-03,Canada,Labor,Product A,10775.0
+1997,2014-11-03,Canada,Raw Materials,Product A,12477.957462445172
+1998,2014-11-03,Canada,Admin,Product A,8926.0
+1999,2014-11-03,Canada,Utilities,Product A,3855.0
+2000,2014-11-03,Canada,Revenue,Product B,45892.572189667
+2001,2014-11-03,Canada,Labor,Product B,17340.0
+2002,2014-11-03,Canada,Raw Materials,Product B,14913.572189667002
+2003,2014-11-03,Canada,Admin,Product B,7148.0
+2004,2014-11-03,Canada,Utilities,Product B,4031.0
+2005,2014-11-03,Canada,Revenue,Overhead,41884.21856506703
+2006,2014-11-03,Canada,Labor,Overhead,14940.0
+2007,2014-11-03,Canada,Raw Materials,Overhead,12179.218565067033
+2008,2014-11-03,Canada,Admin,Overhead,8506.0
+2009,2014-11-03,Canada,Utilities,Overhead,3407.0
+2010,2014-11-03,Mexico,Revenue,Product A,68052.0
+2011,2014-11-03,Mexico,Labor,Product A,17650.0
+2012,2014-11-03,Mexico,Raw Materials,Product A,14205.485835158306
+2013,2014-11-03,Mexico,Admin,Product A,9327.0
+2014,2014-11-03,Mexico,Utilities,Product A,6897.0
+2015,2014-11-03,Mexico,Revenue,Product B,39624.12554317615
+2016,2014-11-03,Mexico,Labor,Product B,10365.0
+2017,2014-11-03,Mexico,Raw Materials,Product B,12403.125543176155
+2018,2014-11-03,Mexico,Admin,Product B,7546.0
+2019,2014-11-03,Mexico,Utilities,Product B,5587.0
+2020,2014-11-03,Mexico,Revenue,Overhead,52506.29858994217
+2021,2014-11-03,Mexico,Labor,Overhead,18754.0
+2022,2014-11-03,Mexico,Raw Materials,Overhead,16309.29858994217
+2023,2014-11-03,Mexico,Admin,Overhead,7037.0
+2024,2014-11-03,Mexico,Utilities,Overhead,6423.0
+2025,2014-11-10,United States,Revenue,Product A,78270.0
+2026,2014-11-10,United States,Labor,Product A,15439.0
+2027,2014-11-10,United States,Raw Materials,Product A,14971.487848470715
+2028,2014-11-10,United States,Admin,Product A,8291.0
+2029,2014-11-10,United States,Utilities,Product A,6408.0
+2030,2014-11-10,United States,Revenue,Product B,49592.0
+2031,2014-11-10,United States,Labor,Product B,11246.0
+2032,2014-11-10,United States,Raw Materials,Product B,12516.730184658418
+2033,2014-11-10,United States,Admin,Product B,7376.0
+2034,2014-11-10,United States,Utilities,Product B,6009.0
+2035,2014-11-10,United States,Revenue,Overhead,50172.21418137011
+2036,2014-11-10,United States,Labor,Overhead,19154.0
+2037,2014-11-10,United States,Raw Materials,Overhead,16253.21418137011
+2038,2014-11-10,United States,Admin,Overhead,6613.0
+2039,2014-11-10,United States,Utilities,Overhead,4640.0
+2040,2014-11-10,Canada,Revenue,Product A,56910.0
+2041,2014-11-10,Canada,Labor,Product A,18569.0
+2042,2014-11-10,Canada,Raw Materials,Product A,18407.48902599213
+2043,2014-11-10,Canada,Admin,Product A,7196.0
+2044,2014-11-10,Canada,Utilities,Product A,6747.0
+2045,2014-11-10,Canada,Revenue,Product B,49273.566127585116
+2046,2014-11-10,Canada,Labor,Product B,18843.0
+2047,2014-11-10,Canada,Raw Materials,Product B,18649.566127585116
+2048,2014-11-10,Canada,Admin,Product B,5780.0
+2049,2014-11-10,Canada,Utilities,Product B,4716.0
+2050,2014-11-10,Canada,Revenue,Overhead,44530.73481769586
+2051,2014-11-10,Canada,Labor,Overhead,16303.0
+2052,2014-11-10,Canada,Raw Materials,Overhead,17920.734817695866
+2053,2014-11-10,Canada,Admin,Overhead,5522.0
+2054,2014-11-10,Canada,Utilities,Overhead,3521.0
+2055,2014-11-10,Mexico,Revenue,Product A,95000.0
+2056,2014-11-10,Mexico,Labor,Product A,19127.0
+2057,2014-11-10,Mexico,Raw Materials,Product A,19880.845379245944
+2058,2014-11-10,Mexico,Admin,Product A,9941.0
+2059,2014-11-10,Mexico,Utilities,Product A,5171.0
+2060,2014-11-10,Mexico,Revenue,Product B,49920.83046059907
+2061,2014-11-10,Mexico,Labor,Product B,17128.0
+2062,2014-11-10,Mexico,Raw Materials,Product B,14823.830460599074
+2063,2014-11-10,Mexico,Admin,Product B,8243.0
+2064,2014-11-10,Mexico,Utilities,Product B,6359.0
+2065,2014-11-10,Mexico,Revenue,Overhead,33589.34343980398
+2066,2014-11-10,Mexico,Labor,Overhead,10685.0
+2067,2014-11-10,Mexico,Raw Materials,Overhead,8602.343439803983
+2068,2014-11-10,Mexico,Admin,Overhead,5038.0
+2069,2014-11-10,Mexico,Utilities,Overhead,5544.0
+2070,2014-11-17,United States,Revenue,Product A,84964.0
+2071,2014-11-17,United States,Labor,Product A,14875.0
+2072,2014-11-17,United States,Raw Materials,Product A,17367.612875155348
+2073,2014-11-17,United States,Admin,Product A,7708.0
+2074,2014-11-17,United States,Utilities,Product A,6709.0
+2075,2014-11-17,United States,Revenue,Product B,49334.0
+2076,2014-11-17,United States,Labor,Product B,10301.0
+2077,2014-11-17,United States,Raw Materials,Product B,11242.47298617671
+2078,2014-11-17,United States,Admin,Product B,6759.0
+2079,2014-11-17,United States,Utilities,Product B,5250.0
+2080,2014-11-17,United States,Revenue,Overhead,59647.85474179077
+2081,2014-11-17,United States,Labor,Overhead,18789.0
+2082,2014-11-17,United States,Raw Materials,Overhead,20691.854741790772
+2083,2014-11-17,United States,Admin,Overhead,8868.0
+2084,2014-11-17,United States,Utilities,Overhead,6852.0
+2085,2014-11-17,Canada,Revenue,Product A,95268.0
+2086,2014-11-17,Canada,Labor,Product A,13537.0
+2087,2014-11-17,Canada,Raw Materials,Product A,11414.093626067675
+2088,2014-11-17,Canada,Admin,Product A,5282.0
+2089,2014-11-17,Canada,Utilities,Product A,6633.0
+2090,2014-11-17,Canada,Revenue,Product B,54054.06771676244
+2091,2014-11-17,Canada,Labor,Product B,19678.0
+2092,2014-11-17,Canada,Raw Materials,Product B,19724.067716762434
+2093,2014-11-17,Canada,Admin,Product B,5460.0
+2094,2014-11-17,Canada,Utilities,Product B,5325.0
+2095,2014-11-17,Canada,Revenue,Overhead,41280.430656938675
+2096,2014-11-17,Canada,Labor,Overhead,13754.0
+2097,2014-11-17,Canada,Raw Materials,Overhead,15174.430656938677
+2098,2014-11-17,Canada,Admin,Overhead,5514.0
+2099,2014-11-17,Canada,Utilities,Overhead,3702.0
+2100,2014-11-17,Mexico,Revenue,Product A,79725.0
+2101,2014-11-17,Mexico,Labor,Product A,11653.0
+2102,2014-11-17,Mexico,Raw Materials,Product A,11956.080513114446
+2103,2014-11-17,Mexico,Admin,Product A,6304.0
+2104,2014-11-17,Mexico,Utilities,Product A,6199.0
+2105,2014-11-17,Mexico,Revenue,Product B,43737.0
+2106,2014-11-17,Mexico,Labor,Product B,13300.0
+2107,2014-11-17,Mexico,Raw Materials,Product B,11491.58109795833
+2108,2014-11-17,Mexico,Admin,Product B,8727.0
+2109,2014-11-17,Mexico,Utilities,Product B,6655.0
+2110,2014-11-17,Mexico,Revenue,Overhead,47522.25546597536
+2111,2014-11-17,Mexico,Labor,Overhead,16272.0
+2112,2014-11-17,Mexico,Raw Materials,Overhead,17845.25546597536
+2113,2014-11-17,Mexico,Admin,Overhead,6855.0
+2114,2014-11-17,Mexico,Utilities,Overhead,3873.0
+2115,2014-11-24,United States,Revenue,Product A,53081.0
+2116,2014-11-24,United States,Labor,Product A,18033.0
+2117,2014-11-24,United States,Raw Materials,Product A,15898.149839705173
+2118,2014-11-24,United States,Admin,Product A,5922.0
+2119,2014-11-24,United States,Utilities,Product A,6137.0
+2120,2014-11-24,United States,Revenue,Product B,39363.0
+2121,2014-11-24,United States,Labor,Product B,12159.0
+2122,2014-11-24,United States,Raw Materials,Product B,13539.249723023177
+2123,2014-11-24,United States,Admin,Product B,7281.0
+2124,2014-11-24,United States,Utilities,Product B,5649.0
+2125,2014-11-24,United States,Revenue,Overhead,50793.37464926765
+2126,2014-11-24,United States,Labor,Overhead,18505.0
+2127,2014-11-24,United States,Raw Materials,Overhead,15065.37464926765
+2128,2014-11-24,United States,Admin,Overhead,8489.0
+2129,2014-11-24,United States,Utilities,Overhead,6508.0
+2130,2014-11-24,Canada,Revenue,Product A,86751.0
+2131,2014-11-24,Canada,Labor,Product A,17544.0
+2132,2014-11-24,Canada,Raw Materials,Product A,18795.791227268244
+2133,2014-11-24,Canada,Admin,Product A,8895.0
+2134,2014-11-24,Canada,Utilities,Product A,6282.0
+2135,2014-11-24,Canada,Revenue,Product B,33370.12766763292
+2136,2014-11-24,Canada,Labor,Product B,11124.0
+2137,2014-11-24,Canada,Raw Materials,Product B,9454.127667632923
+2138,2014-11-24,Canada,Admin,Product B,6043.0
+2139,2014-11-24,Canada,Utilities,Product B,4929.0
+2140,2014-11-24,Canada,Revenue,Overhead,40137.87890095962
+2141,2014-11-24,Canada,Labor,Overhead,11013.0
+2142,2014-11-24,Canada,Raw Materials,Overhead,11422.878900959622
+2143,2014-11-24,Canada,Admin,Overhead,9917.0
+2144,2014-11-24,Canada,Utilities,Overhead,5023.0
+2145,2014-11-24,Mexico,Revenue,Product A,76661.0
+2146,2014-11-24,Mexico,Labor,Product A,14966.0
+2147,2014-11-24,Mexico,Raw Materials,Product A,11992.065813240655
+2148,2014-11-24,Mexico,Admin,Product A,9283.0
+2149,2014-11-24,Mexico,Utilities,Product A,4080.0
+2150,2014-11-24,Mexico,Revenue,Product B,45527.082904152245
+2151,2014-11-24,Mexico,Labor,Product B,15036.0
+2152,2014-11-24,Mexico,Raw Materials,Product B,12588.082904152247
+2153,2014-11-24,Mexico,Admin,Product B,7563.0
+2154,2014-11-24,Mexico,Utilities,Product B,6292.0
+2155,2014-11-24,Mexico,Revenue,Overhead,43094.24037385824
+2156,2014-11-24,Mexico,Labor,Overhead,13586.0
+2157,2014-11-24,Mexico,Raw Materials,Overhead,11221.240373858243
+2158,2014-11-24,Mexico,Admin,Overhead,7947.0
+2159,2014-11-24,Mexico,Utilities,Overhead,6959.0
+2160,2014-12-01,United States,Revenue,Product A,64226.0
+2161,2014-12-01,United States,Labor,Product A,10161.0
+2162,2014-12-01,United States,Raw Materials,Product A,10564.875224040428
+2163,2014-12-01,United States,Admin,Product A,9155.0
+2164,2014-12-01,United States,Utilities,Product A,5962.0
+2165,2014-12-01,United States,Revenue,Product B,37047.0
+2166,2014-12-01,United States,Labor,Product B,13390.0
+2167,2014-12-01,United States,Raw Materials,Product B,11124.724143043477
+2168,2014-12-01,United States,Admin,Product B,6132.0
+2169,2014-12-01,United States,Utilities,Product B,4099.0
+2170,2014-12-01,United States,Revenue,Overhead,39025.17489459713
+2171,2014-12-01,United States,Labor,Overhead,10541.0
+2172,2014-12-01,United States,Raw Materials,Overhead,12573.174894597127
+2173,2014-12-01,United States,Admin,Overhead,5867.0
+2174,2014-12-01,United States,Utilities,Overhead,6775.0
+2175,2014-12-01,Canada,Revenue,Product A,55469.0
+2176,2014-12-01,Canada,Labor,Product A,18623.0
+2177,2014-12-01,Canada,Raw Materials,Product A,17680.397571197176
+2178,2014-12-01,Canada,Admin,Product A,6206.0
+2179,2014-12-01,Canada,Utilities,Product A,5528.0
+2180,2014-12-01,Canada,Revenue,Product B,39194.0
+2181,2014-12-01,Canada,Labor,Product B,11169.0
+2182,2014-12-01,Canada,Raw Materials,Product B,10594.56493556802
+2183,2014-12-01,Canada,Admin,Product B,5475.0
+2184,2014-12-01,Canada,Utilities,Product B,5810.0
+2185,2014-12-01,Canada,Revenue,Overhead,53962.69869094703
+2186,2014-12-01,Canada,Labor,Overhead,19518.0
+2187,2014-12-01,Canada,Raw Materials,Overhead,23408.698690947032
+2188,2014-12-01,Canada,Admin,Overhead,6836.0
+2189,2014-12-01,Canada,Utilities,Overhead,3160.0
+2190,2014-12-01,Mexico,Revenue,Product A,68394.0
+2191,2014-12-01,Mexico,Labor,Product A,11283.0
+2192,2014-12-01,Mexico,Raw Materials,Product A,11265.698124779783
+2193,2014-12-01,Mexico,Admin,Product A,7125.0
+2194,2014-12-01,Mexico,Utilities,Product A,5171.0
+2195,2014-12-01,Mexico,Revenue,Product B,51380.43653567975
+2196,2014-12-01,Mexico,Labor,Product B,18266.0
+2197,2014-12-01,Mexico,Raw Materials,Product B,20019.436535679753
+2198,2014-12-01,Mexico,Admin,Product B,5836.0
+2199,2014-12-01,Mexico,Utilities,Product B,4528.0
+2200,2014-12-01,Mexico,Revenue,Overhead,51000.01705596917
+2201,2014-12-01,Mexico,Labor,Overhead,18691.0
+2202,2014-12-01,Mexico,Raw Materials,Overhead,17661.01705596917
+2203,2014-12-01,Mexico,Admin,Overhead,8696.0
+2204,2014-12-01,Mexico,Utilities,Overhead,4885.0
+2205,2014-12-08,United States,Revenue,Product A,85525.0
+2206,2014-12-08,United States,Labor,Product A,16397.0
+2207,2014-12-08,United States,Raw Materials,Product A,16964.19906984729
+2208,2014-12-08,United States,Admin,Product A,6900.0
+2209,2014-12-08,United States,Utilities,Product A,5610.0
+2210,2014-12-08,United States,Revenue,Product B,46834.48005909358
+2211,2014-12-08,United States,Labor,Product B,16900.0
+2212,2014-12-08,United States,Raw Materials,Product B,13899.480059093581
+2213,2014-12-08,United States,Admin,Product B,9676.0
+2214,2014-12-08,United States,Utilities,Product B,4372.0
+2215,2014-12-08,United States,Revenue,Overhead,47548.05576792606
+2216,2014-12-08,United States,Labor,Overhead,17999.0
+2217,2014-12-08,United States,Raw Materials,Overhead,15739.055767926058
+2218,2014-12-08,United States,Admin,Overhead,5703.0
+2219,2014-12-08,United States,Utilities,Overhead,5308.0
+2220,2014-12-08,Canada,Revenue,Product A,65078.0
+2221,2014-12-08,Canada,Labor,Product A,19817.0
+2222,2014-12-08,Canada,Raw Materials,Product A,16492.512079249977
+2223,2014-12-08,Canada,Admin,Product A,7978.0
+2224,2014-12-08,Canada,Utilities,Product A,3640.0
+2225,2014-12-08,Canada,Revenue,Product B,47432.0
+2226,2014-12-08,Canada,Labor,Product B,12839.0
+2227,2014-12-08,Canada,Raw Materials,Product B,14017.662459067247
+2228,2014-12-08,Canada,Admin,Product B,5685.0
+2229,2014-12-08,Canada,Utilities,Product B,4851.0
+2230,2014-12-08,Canada,Revenue,Overhead,51480.956966564045
+2231,2014-12-08,Canada,Labor,Overhead,17531.0
+2232,2014-12-08,Canada,Raw Materials,Overhead,14973.956966564043
+2233,2014-12-08,Canada,Admin,Overhead,9643.0
+2234,2014-12-08,Canada,Utilities,Overhead,5772.0
+2235,2014-12-08,Mexico,Revenue,Product A,77037.0
+2236,2014-12-08,Mexico,Labor,Product A,11431.0
+2237,2014-12-08,Mexico,Raw Materials,Product A,9405.677006991995
+2238,2014-12-08,Mexico,Admin,Product A,9998.0
+2239,2014-12-08,Mexico,Utilities,Product A,3162.0
+2240,2014-12-08,Mexico,Revenue,Product B,45561.796938863554
+2241,2014-12-08,Mexico,Labor,Product B,11974.0
+2242,2014-12-08,Mexico,Raw Materials,Product B,13919.796938863557
+2243,2014-12-08,Mexico,Admin,Product B,8471.0
+2244,2014-12-08,Mexico,Utilities,Product B,6253.0
+2245,2014-12-08,Mexico,Revenue,Overhead,39170.46978688032
+2246,2014-12-08,Mexico,Labor,Overhead,12014.0
+2247,2014-12-08,Mexico,Raw Materials,Overhead,11772.469786880316
+2248,2014-12-08,Mexico,Admin,Overhead,5840.0
+2249,2014-12-08,Mexico,Utilities,Overhead,4836.0
+2250,2014-12-15,United States,Revenue,Product A,52643.0
+2251,2014-12-15,United States,Labor,Product A,15347.0
+2252,2014-12-15,United States,Raw Materials,Product A,12483.947168805136
+2253,2014-12-15,United States,Admin,Product A,5874.0
+2254,2014-12-15,United States,Utilities,Product A,4464.0
+2255,2014-12-15,United States,Revenue,Product B,45998.0
+2256,2014-12-15,United States,Labor,Product B,10689.0
+2257,2014-12-15,United States,Raw Materials,Product B,10308.88035847958
+2258,2014-12-15,United States,Admin,Product B,5671.0
+2259,2014-12-15,United States,Utilities,Product B,6831.0
+2260,2014-12-15,United States,Revenue,Overhead,38558.70251101148
+2261,2014-12-15,United States,Labor,Overhead,11171.0
+2262,2014-12-15,United States,Raw Materials,Overhead,9508.70251101148
+2263,2014-12-15,United States,Admin,Overhead,6449.0
+2264,2014-12-15,United States,Utilities,Overhead,6737.0
+2265,2014-12-15,Canada,Revenue,Product A,72669.0
+2266,2014-12-15,Canada,Labor,Product A,12539.0
+2267,2014-12-15,Canada,Raw Materials,Product A,13982.053400680776
+2268,2014-12-15,Canada,Admin,Product A,7361.0
+2269,2014-12-15,Canada,Utilities,Product A,5068.0
+2270,2014-12-15,Canada,Revenue,Product B,38322.0
+2271,2014-12-15,Canada,Labor,Product B,13670.0
+2272,2014-12-15,Canada,Raw Materials,Product B,12019.197855930259
+2273,2014-12-15,Canada,Admin,Product B,5370.0
+2274,2014-12-15,Canada,Utilities,Product B,4880.0
+2275,2014-12-15,Canada,Revenue,Overhead,44667.448351888415
+2276,2014-12-15,Canada,Labor,Overhead,16588.0
+2277,2014-12-15,Canada,Raw Materials,Overhead,14027.448351888417
+2278,2014-12-15,Canada,Admin,Overhead,5894.0
+2279,2014-12-15,Canada,Utilities,Overhead,5537.0
+2280,2014-12-15,Mexico,Revenue,Product A,59879.0
+2281,2014-12-15,Mexico,Labor,Product A,10597.0
+2282,2014-12-15,Mexico,Raw Materials,Product A,10856.511154971968
+2283,2014-12-15,Mexico,Admin,Product A,7090.0
+2284,2014-12-15,Mexico,Utilities,Product A,4704.0
+2285,2014-12-15,Mexico,Revenue,Product B,46878.198488283335
+2286,2014-12-15,Mexico,Labor,Product B,16566.0
+2287,2014-12-15,Mexico,Raw Materials,Product B,17943.19848828334
+2288,2014-12-15,Mexico,Admin,Product B,6517.0
+2289,2014-12-15,Mexico,Utilities,Product B,3197.0
+2290,2014-12-15,Mexico,Revenue,Overhead,45130.379882021225
+2291,2014-12-15,Mexico,Labor,Overhead,13648.0
+2292,2014-12-15,Mexico,Raw Materials,Overhead,13258.379882021221
+2293,2014-12-15,Mexico,Admin,Overhead,8137.0
+2294,2014-12-15,Mexico,Utilities,Overhead,5889.0
+2295,2014-12-22,United States,Revenue,Product A,62722.0
+2296,2014-12-22,United States,Labor,Product A,10097.0
+2297,2014-12-22,United States,Raw Materials,Product A,11558.992725663174
+2298,2014-12-22,United States,Admin,Product A,8157.0
+2299,2014-12-22,United States,Utilities,Product A,3587.0
+2300,2014-12-22,United States,Revenue,Product B,51812.596580279576
+2301,2014-12-22,United States,Labor,Product B,18535.0
+2302,2014-12-22,United States,Raw Materials,Product B,20662.596580279576
+2303,2014-12-22,United States,Admin,Product B,5610.0
+2304,2014-12-22,United States,Utilities,Product B,4727.0
+2305,2014-12-22,United States,Revenue,Overhead,39192.988719180124
+2306,2014-12-22,United States,Labor,Overhead,11854.0
+2307,2014-12-22,United States,Raw Materials,Overhead,11840.988719180126
+2308,2014-12-22,United States,Admin,Overhead,9627.0
+2309,2014-12-22,United States,Utilities,Overhead,4177.0
+2310,2014-12-22,Canada,Revenue,Product A,80933.0
+2311,2014-12-22,Canada,Labor,Product A,19283.0
+2312,2014-12-22,Canada,Raw Materials,Product A,21263.37571367758
+2313,2014-12-22,Canada,Admin,Product A,7791.0
+2314,2014-12-22,Canada,Utilities,Product A,5260.0
+2315,2014-12-22,Canada,Revenue,Product B,36282.0
+2316,2014-12-22,Canada,Labor,Product B,11749.0
+2317,2014-12-22,Canada,Raw Materials,Product B,10158.74846511908
+2318,2014-12-22,Canada,Admin,Product B,8048.0
+2319,2014-12-22,Canada,Utilities,Product B,5727.0
+2320,2014-12-22,Canada,Revenue,Overhead,43472.032272890836
+2321,2014-12-22,Canada,Labor,Overhead,12105.0
+2322,2014-12-22,Canada,Raw Materials,Overhead,13319.032272890838
+2323,2014-12-22,Canada,Admin,Overhead,8970.0
+2324,2014-12-22,Canada,Utilities,Overhead,4991.0
+2325,2014-12-22,Mexico,Revenue,Product A,91971.0
+2326,2014-12-22,Mexico,Labor,Product A,19259.0
+2327,2014-12-22,Mexico,Raw Materials,Product A,19557.14317070853
+2328,2014-12-22,Mexico,Admin,Product A,6814.0
+2329,2014-12-22,Mexico,Utilities,Product A,5648.0
+2330,2014-12-22,Mexico,Revenue,Product B,48978.0
+2331,2014-12-22,Mexico,Labor,Product B,12426.0
+2332,2014-12-22,Mexico,Raw Materials,Product B,11831.639605315588
+2333,2014-12-22,Mexico,Admin,Product B,9874.0
+2334,2014-12-22,Mexico,Utilities,Product B,5551.0
+2335,2014-12-22,Mexico,Revenue,Overhead,47194.14503101476
+2336,2014-12-22,Mexico,Labor,Overhead,16411.0
+2337,2014-12-22,Mexico,Raw Materials,Overhead,16564.14503101476
+2338,2014-12-22,Mexico,Admin,Overhead,7211.0
+2339,2014-12-22,Mexico,Utilities,Overhead,3484.0
